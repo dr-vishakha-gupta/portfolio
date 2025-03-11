@@ -8,7 +8,7 @@ This Tableau dashboard **analyzes immunization trends, age-wise vaccination rate
 🔗 **[View the Interactive Tableau Dashboard Here](https://public.tableau.com/app/profile/vishakha.gupta6103/viz/ImmunizationDashboard_17398431624290/Dashboard1)**  
 
 📌 **Dashboard Preview:**  
-![Immunization Dashboard Preview](https://raw.githubusercontent.com/your-username/your-repo/main/Immunization_Analysis/immunization_dashboard.png)  
+![Immunization Dashboard Preview](https://github.com/dr-vishakha-gupta/portfolio/blob/main/Vaccination_Impact_Analysis/immunization_dashboard.png)  
 
 ---
 
