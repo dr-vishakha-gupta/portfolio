@@ -8,7 +8,7 @@ This project analyzes **ER visit patterns**, exploring key factors such as patie
 🔗 **[View the Interactive Tableau Dashboard Here](https://public.tableau.com/app/profile/vishakha.gupta6103/viz/EmergencyRoomVisitsDashboard_17398151464680/Dashboard1)**  
 
 📌 **Dashboard Preview:**  
-![Tableau Dashboard Preview](https://raw.githubusercontent.com/your-username/your-repo/main/Marathon_Performance_Analysis/er_dashboard.png)  
+![Tableau Dashboard Preview](https://github.com/dr-vishakha-gupta/portfolio/blob/main/Hospital_Utilization_Analysis/ER_Visits.png)  
 
 ---
 
