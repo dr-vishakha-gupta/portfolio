@@ -10,7 +10,7 @@ The global shift toward **electric mobility** is accelerating as governments, bu
 🔗 **[EV Market Dashboard](https://public.tableau.com/app/profile/vishakha.gupta6103/viz/EV_17401004985620/Dashboard1)**  
 
 ## 🖼️ Dashboard Preview  
-📌 **Screenshot of Dashboard:** *(Manually upload a screenshot for better visibility.)* 
+📌 **Screenshot of Dashboard:** *(https://github.com/dr-vishakha-gupta/portfolio/blob/main/EV_Market_Analysis/EV_dashboard.png)* 
 
 ---
 
