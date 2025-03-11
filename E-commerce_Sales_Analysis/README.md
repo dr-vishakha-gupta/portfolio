@@ -6,7 +6,10 @@
 ## 📍 Overview  
 This project provides a **deep dive into e-commerce sales trends**, customer segmentation, and revenue drivers. The dashboard analyzes **top-selling products, regional performance, seasonal trends, and discounting effects** to drive strategic business decisions.  
 
-🔗 **[View Tableau Dashboard](https://public.tableau.com/app/profile/vishakha.gupta6103/viz/EcommerceSalesAnalytics_17399248988920/Dashboard1)**  
+🔗 **[View Tableau Dashboard](https://public.tableau.com/app/profile/vishakha.gupta6103/viz/EcommerceSalesAnalytics_17399248988920/Dashboard1)**
+
+📌 **Dashboard Preview:**  
+![Tableau Dashboard Preview](https://github.com/dr-vishakha-gupta/portfolio/blob/main/E-commerce_Sales_Analysis/E_commerce.png)
 
 ---
 
