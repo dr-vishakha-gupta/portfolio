@@ -9,7 +9,7 @@ This project provides a **deep dive into e-commerce sales trends**, customer seg
 🔗 **[View Tableau Dashboard](https://public.tableau.com/app/profile/vishakha.gupta6103/viz/EcommerceSalesAnalytics_17399248988920/Dashboard1)**  
 
 📌 **Dashboard Preview:**  
-![Tableau Dashboard Preview](https://github.com/dr-vishakha-gupta/portfolio/blob/main/Ecommerce_Sales_Analysis/E_commerce.png)
+![Tableau Dashboard Preview](https://github.com/dr-vishakha-gupta/portfolio/blob/main/E-commerce_Sales_Analysis/E_commerce.png)
 
 ---
 
