@@ -1,3 +1,7 @@
+## 👩‍💻 **About Me**  
+
+Welcome to my portfolio! I’m Dr. Vishakha Gupta, a data scientist and public health analyst specializing in data-driven decision-making, machine learning, NLP, and business intelligence. My work bridges technology, analytics, and strategy to uncover insights that drive impact.
+
 # 🚀 Data Science & Analytics Portfolio  
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)  
@@ -7,10 +11,6 @@
 ![NLP](https://img.shields.io/badge/NLP-FF5733?style=for-the-badge&logo=spacy&logoColor=white)  
 
 ---
-
-## 👩‍💻 **About Me**  
-
-Welcome to my portfolio! I’m Dr. Vishakha Gupta, a data scientist and public health analyst specializing in data-driven decision-making, machine learning, NLP, and business intelligence. My work bridges technology, analytics, and strategy to uncover insights that drive impact.
 
 📢 *“Turning raw data into actionable insights that drive impact!”*  
 
