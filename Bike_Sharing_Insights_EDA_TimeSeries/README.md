@@ -6,7 +6,7 @@ This project analyzes **London’s bike-sharing system** to uncover trends, eval
 🔗 **[Explore the Interactive Tableau Dashboard Here](https://public.tableau.com/app/profile/vishakha.gupta6103/viz/LondonBikeRides-MovingAverageandHeatmap_17420715356660/Dashboard?publish=yes)**  
 
 📌 **Dashboard Preview:**  
-![Tableau Dashboard Preview](https://github.com/dr-vishakha-gupta/portfolio/blob/main/Bike_Sharing_Insights_EDA_TimeSeries/london_bikes.png)
+![Tableau Dashboard Preview](https://github.com/dr-vishakha-gupta/portfolio/blob/main/Bike_Sharing_Insights_EDA_TimeSeries/London_Bikes.png)
 
 ---
 
