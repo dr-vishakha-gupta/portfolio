@@ -35,6 +35,7 @@ We start with a **baseline Ordinary Least Squares (OLS) model**, followed by **A
 ---
 
 ### **2️⃣ Markov-Switching Model (Regime-Dependent Analysis)**  
+
 Since healthcare spending is **regime-dependent**, a **Markov-Switching Model (MSM)** is used to analyze how macroeconomic factors impact spending **in stable vs. volatile economic periods**.  
 
 🖼 **Markov-Switching Estimates Plot:**  
