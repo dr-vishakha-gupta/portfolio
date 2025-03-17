@@ -77,7 +77,7 @@ Given **non-stationary and regime-dependent shifts in healthcare expenditures**,
 A **generalized non-linear regression model** is applied to evaluate **asymmetric effects of macroeconomic variables**:  
 
 🖼 **Non-Linear CPI Impact on Spending:**  
-![Non-Linear CPI]((https://github.com/dr-vishakha-gupta/portfolio/blob/main/Healthcare_Expenditure_Econometric_Modeling/NonLinearPlot.png)  
+![Non-Linear CPI](https://github.com/dr-vishakha-gupta/portfolio/blob/main/Healthcare_Expenditure_Econometric_Modeling/NonLinearPlot.png)  
 
 ---
 
