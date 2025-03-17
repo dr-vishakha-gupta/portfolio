@@ -4,7 +4,7 @@
 ---
 
 🖼 **PCE-Health Spending Over Time:**  
-![PCE Health](https://github.com/dr-vishakha-gupta/portfolio/blob/main/Healthcare_Econometric_Modeling/PCE-Health.png) 
+![PCE Health](https://github.com/dr-vishakha-gupta/portfolio/blob/main/Healthcare_Econometric_Modeling/PCE-Health.png)
 
 ## 🔍 Project Overview  
 Healthcare spending is a crucial component of economic policy, but its behavior is often **non-linear and regime-dependent** due to **inflation, monetary policy, and macroeconomic shocks** (e.g., recessions, pandemics).  
