@@ -30,6 +30,7 @@ We start with a **baseline Ordinary Least Squares (OLS) model**, followed by **A
 ✔ **Long-term structural shifts** (e.g., demographic changes, healthcare reforms).  
 
 🖼 **Structural Breaks Detected in Healthcare Spending:**  
+
 ![Structural Breaks](https://github.com/dr-vishakha-gupta/portfolio/blob/main/Healthcare_Expenditure_Econometric_Modeling/StructuralBreaks.png)  
 
 ---
