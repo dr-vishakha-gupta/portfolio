@@ -21,6 +21,9 @@ This study employs **advanced econometric modeling** to analyze **how healthcare
 ## 🏗 Methodology & Econometric Models  
 
 ### **1️⃣ Linear Model: Benchmark Regression (OLS & Autometrics Selection)**  
+
+![Model Fit](https://github.com/dr-vishakha-gupta/portfolio/blob/main/Healthcare_Expenditure_Econometric_Modeling/ModelFit.png)
+
 We start with a **baseline Ordinary Least Squares (OLS) model**, followed by **Autometrics selection (Impulse Indicator Saturation & Step Indicator Saturation - IIS/SIS)** to detect:  
 
 ✔ **Sudden shocks** (e.g., financial crises, pandemics, major policy changes).  
