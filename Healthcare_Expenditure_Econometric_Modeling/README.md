@@ -30,8 +30,7 @@ This study utilizes **seasonally adjusted quarterly data** from **1971 to 2024**
 
 ### **Dependent Variable:**  
 - **PCE-Health**: *Personal Consumption Expenditures on Healthcare (billions, real USD).*
-- 🖼 **Structural Breaks Detected in Healthcare Spending:**  
-![PCE Health]()  
+![PCE Health](https://github.com/dr-vishakha-gupta/portfolio/blob/main/Healthcare_Expenditure_Econometric_Modeling/PCE-Health.png)  
 
 ### **Key Independent Variables:**  
 | Variable | Description | Expected Effect |
@@ -53,17 +52,15 @@ We begin with a **baseline Ordinary Least Squares (OLS) model**, followed by **A
 - **SIS identifies persistent shifts (new economic policies, demographic changes).**  
 
 🖼 **Structural Breaks Detected in Healthcare Spending:**  
-![Structural Breaks](INSERT_IMAGE_LINK_HERE)  
+![Structural Breaks](https://github.com/dr-vishakha-gupta/portfolio/blob/main/Healthcare_Expenditure_Econometric_Modeling/StructuralBreaks.png)  
 
 ---
 
 ### **2️⃣ Markov-Switching Model (Regime-Dependent Analysis)**  
 Given **non-stationary and regime-dependent shifts in healthcare expenditures**, a **Markov-Switching Model (MSM)** is implemented:  
 
-**Equation (Regime-Specific Effects):**  
-\[
-PCE_t = \alpha_s + \sum \beta_{i,s} X_{i,t} + \epsilon_t
-\]
+🖼 **Markov-Switching Estimates Plot:**  
+![Markov Switching](https://github.com/dr-vishakha-gupta/portfolio/blob/main/Healthcare_Expenditure_Econometric_Modeling/MarkovSwitching.png) 
 
 📌 **Two Distinct Economic Regimes Identified:**  
 - **Regime 0 (Stable Growth Phase)**:  
@@ -74,21 +71,13 @@ PCE_t = \alpha_s + \sum \beta_{i,s} X_{i,t} + \epsilon_t
   - **Epidemic Indicator becomes significant (p=0.018),** showing that **health shocks drive spending surges.**  
   - The effect of **Medical CPI weakens** (β=0.195), meaning inflation is less impactful in crises than in stable periods.  
 
-🖼 **Markov-Switching Estimates Plot:**  
-![Markov Switching](INSERT_IMAGE_LINK_HERE)  
-
 ---
 
 ### **3️⃣ Non-Linear Relationships & Bias Correction**  
 A **generalized non-linear regression model** is applied to evaluate **asymmetric effects of macroeconomic variables**:  
 
-**Equation with Interaction Terms:**  
-\[
-PCE_t = \beta_0 + \beta_1 FEDFUNDS_t + \beta_2 DLCPIMEDSL_t + \gamma_1 FEDFUNDS_t * Recession_t + \gamma_2 Epidemic_t * CPI_t + \epsilon_t
-\]
-
 🖼 **Non-Linear CPI Impact on Spending:**  
-![Non-Linear CPI](INSERT_IMAGE_LINK_HERE)  
+![Non-Linear CPI]((https://github.com/dr-vishakha-gupta/portfolio/blob/main/Healthcare_Expenditure_Econometric_Modeling/NonLinearPlot.png)  
 
 ---
 
@@ -96,10 +85,7 @@ PCE_t = \beta_0 + \beta_1 FEDFUNDS_t + \beta_2 DLCPIMEDSL_t + \gamma_1 FEDFUNDS_
 To assess model performance, we evaluate:  
 ✔ **Log-Likelihood: 950.39** (Strong model fit)  
 ✔ **R²: 91%** (Explains 91% of healthcare spending variation)  
-✔ **Linearity Test (p < 0.0001):** Strong rejection of linearity, justifying **Markov-Switching approach**.  
-
-🖼 **Residual Analysis & Model Fit:**  
-![Residual Fit](INSERT_IMAGE_LINK_HERE)  
+✔ **Linearity Test (p < 0.0001):** Strong rejection of linearity, justifying **Markov-Switching approach**.    
 
 ---
 
