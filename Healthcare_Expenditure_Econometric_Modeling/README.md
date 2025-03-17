@@ -1,8 +1,6 @@
 # 📊 Macroeconomic Determinants of Healthcare Expenditures: An Econometric Approach  
 *A Regime-Switching & Non-Linear Econometric Analysis of Healthcare Spending*  
 
----
-
 🖼 **PCE-Health Spending Over Time:**  
 ![PCE Health](https://github.com/dr-vishakha-gupta/portfolio/blob/main/Healthcare_Expenditure_Econometric_Modeling/PCE-Health.png)
 
@@ -29,7 +27,7 @@ We start with a **baseline Ordinary Least Squares (OLS) model**, followed by **A
 ✔ **Long-term structural shifts** (e.g., demographic changes, healthcare reforms).  
 
 🖼 **Structural Breaks Detected in Healthcare Spending:**  
-![Structural Breaks](https://github.com/dr-vishakha-gupta/portfolio/blob/main/Healthcare_Econometric_Modeling/StructuralBreaks.png)  
+![Structural Breaks](https://github.com/dr-vishakha-gupta/portfolio/blob/main/Healthcare_Expenditure_Econometric_Modeling/StructuralBreaks.png)  
 
 ---
 
@@ -37,7 +35,7 @@ We start with a **baseline Ordinary Least Squares (OLS) model**, followed by **A
 Since healthcare spending is **regime-dependent**, a **Markov-Switching Model (MSM)** is used to analyze how macroeconomic factors impact spending **in stable vs. volatile economic periods**.  
 
 🖼 **Markov-Switching Estimates Plot:**  
-![Markov Switching](https://github.com/dr-vishakha-gupta/portfolio/blob/main/Healthcare_Econometric_Modeling/MarkovSwitching.png)  
+![Markov Switching](https://github.com/dr-vishakha-gupta/portfolio/blob/main/Healthcare_Expenditure_Econometric_Modeling/MarkovSwitching.png)  
 
 📌 **Two Distinct Economic Regimes Identified:**  
 - **Regime 0 (Stable Growth Phase)**:  
@@ -54,7 +52,7 @@ Since healthcare spending is **regime-dependent**, a **Markov-Switching Model (M
 A **generalized non-linear regression model** is applied to evaluate **asymmetric effects of macroeconomic variables**:  
 
 🖼 **Non-Linear CPI Impact on Spending:**  
-![Non-Linear CPI](https://github.com/dr-vishakha-gupta/portfolio/blob/main/Healthcare_Econometric_Modeling/NonLinearPlot.png)  
+![Non-Linear CPI](https://github.com/dr-vishakha-gupta/portfolio/blob/main/Healthcare_Expenditure_Econometric_Modeling/NonLinearPlot.png)  
 
 📌 **Findings:**  
 ✔ **Monetary policy’s effect is asymmetric** – It **only influences spending during recessions**.  
@@ -67,9 +65,6 @@ To assess model performance, we evaluate:
 ✔ **Log-Likelihood: 950.39** (Strong model fit).  
 ✔ **R²: 91%** (Explains **91% of healthcare spending variation**).  
 ✔ **Linearity Test (p < 0.0001):** Strong rejection of linearity, justifying **Markov-Switching approach**.    
-
-🖼 **Residual Analysis & Model Fit:**  
-![Residual Fit](https://github.com/dr-vishakha-gupta/portfolio/blob/main/Healthcare_Econometric_Modeling/ResidualFit.png)  
 
 ---
 
