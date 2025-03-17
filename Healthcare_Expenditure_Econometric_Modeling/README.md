@@ -29,7 +29,9 @@ This study utilizes **seasonally adjusted quarterly data** from **1971 to 2024**
 - **National Bureau of Economic Research (NBER)** for recession and expansion periods.  
 
 ### **Dependent Variable:**  
-- **PCE-Health**: *Personal Consumption Expenditures on Healthcare (billions, real USD).*  
+- **PCE-Health**: *Personal Consumption Expenditures on Healthcare (billions, real USD).*
+- 🖼 **Structural Breaks Detected in Healthcare Spending:**  
+![PCE Health]()  
 
 ### **Key Independent Variables:**  
 | Variable | Description | Expected Effect |
@@ -46,11 +48,6 @@ This study utilizes **seasonally adjusted quarterly data** from **1971 to 2024**
 
 ### **1️⃣ Linear Model: Benchmark Regression (OLS & Autometrics Selection)**  
 We begin with a **baseline Ordinary Least Squares (OLS) model**, followed by **Autometrics selection (Impulse Indicator Saturation & Step Indicator Saturation - IIS/SIS)** to detect **outliers and structural breaks**.  
-
-**Equation:**  
-\[
-\log(PCE_{t}) = \beta_0 + \beta_1 FEDFUNDS_t + \beta_2 DLCPIMEDSL_t + \beta_3 GDPGrowth_t + \beta_4 UnempRate_t + \beta_5 Epidemic_t + \epsilon_t
-\]
 
 - **IIS captures sudden economic shocks (financial crises, pandemics, policy shifts).**  
 - **SIS identifies persistent shifts (new economic policies, demographic changes).**  
