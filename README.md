@@ -25,7 +25,7 @@ Welcome to my portfolio! I am **Dr. Vishakha Gupta**, a data scientist and publi
     </td>
     <td width="33%">
       <a href="https://github.com/dr-vishakha-gupta/Customer-Segmentation">
-        <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/customer_segmentation.png" width="100%">
+        <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/CustomerSegmentation.webp" width="100%">
         <h3>Customer Segmentation Using Machine Learning Model</h3>
       </a>
       <p>Used clustering techniques to identify customer segments in retail data.</p>
