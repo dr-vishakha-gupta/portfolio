@@ -27,7 +27,9 @@ We analyze:
 ✔ **Total number of ads shown to prospects.**  
 
 🖼 **Ad Displays Over Time:**  
-![Ad Displays Over Time](INSERT_IMAGE_LINK_HERE)  
+![Ad Displays Over Time](https://github.com/dr-vishakha-gupta/portfolio/blob/main/AB_Testing_Ad_Optimization/Most%20ads-%20day.png)  
+
+(https://github.com/dr-vishakha-gupta/portfolio/blob/main/AB_Testing_Ad_Optimization/Most%20ads-%20Hour of day.png)
 
 ---
 
