@@ -10,7 +10,7 @@ Welcome to my portfolio! I am **Dr. Vishakha Gupta**, a data scientist and publi
 <table>
   <tr>
     <td width="33%">
-      <a href="https://github.com/dr-vishakha-gupta/AB_Testing_Ad_Optimization">
+      <a href="https://github.com/dr-vishakha-gupta/portfolio/tree/main/AB_Testing_Ad_Optimization">
         <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/AB-Testing.png" width="100%">
         <h3>A/B Testing for Ad Performance</h3>
       </a>
