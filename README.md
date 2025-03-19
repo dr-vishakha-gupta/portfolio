@@ -18,7 +18,7 @@ Welcome to my portfolio! I am **Dr. Vishakha Gupta**, a data scientist and publi
     </td>
     <td width="33%">
       <a href="https://github.com/dr-vishakha-gupta/Bike_Sharing_Insights_EDA_TimeSeries">
-        <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/bike_sharing.png" width="100%">
+        <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/Bike_Ride.png" width="100%">
         <h3>Time Series Forecasting for Bike-Sharing Demand</h3>
       </a>
       <p>Explored bike-sharing trends & built predictive models.</p>
