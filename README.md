@@ -42,7 +42,7 @@ Welcome to my portfolio! I am **Dr. Vishakha Gupta**, a data scientist and publi
     </td>
     <td width="33%">
       <a href="https://github.com/dr-vishakha-gupta/EV_Market_Analysis">
-        <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/ev_market.png" width="100%">
+        <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/EV.jpg" width="100%">
         <h3>EV Market Analysis</h3>
       </a>
       <p>Studied electric vehicle sales & market trends using data analytics.</p>
