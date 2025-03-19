@@ -49,7 +49,7 @@ Welcome to my portfolio! I am **Dr. Vishakha Gupta**, a data scientist and publi
     </td>
     <td width="33%">
       <a href="https://github.com/dr-vishakha-gupta/Healthcare_Expenditure_Econometric_Modeling">
-        <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/healthcare_expenditure.png" width="100%">
+        <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/Health_expenditure.jpg" width="100%">
         <h3>Healthcare Cost Analysis Using Econometric Modeling</h3>
       </a>
       <p>Built econometric models to analyze healthcare spending patterns.</p>
