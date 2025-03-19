@@ -74,9 +74,9 @@ For **continuous variables** like **total ad displays**, we check if distributio
 
 📊 **Test Results:**  
 
-| **Metric**           | **U Statistic** | **p-value** | **Conclusion** |
+| **Metric**           | **p-value** | **Conclusion** |
 |----------------------|----------------|-------------|---------------|
-| **Total Ads vs. Conversion** | Not explicitly printed | 0.00 | ✅ Reject H₀ (Significant) |
+| **Total Ads vs. Conversion** | 0.00 | ✅ Reject H₀ (Significant) |
 
 
 🔍 **Interpretation:**  
