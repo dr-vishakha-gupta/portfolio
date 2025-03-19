@@ -73,7 +73,7 @@ Welcome to my portfolio! I am **Dr. Vishakha Gupta**, a data scientist and publi
     </td>
     <td width="33%">
       <a href="https://github.com/dr-vishakha-gupta/NLP_Sentiment_Insights">
-        <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/sentiment_analysis.jpg" width="100%">
+        <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/sentiment%20analysis.jpg" width="100%">
         <h3>Sentiment Analysis of Customer Reviews Using NLP</h3>
       </a>
       <p>Performed sentiment analysis on text data using NLP techniques.</p>
