@@ -83,7 +83,7 @@ Welcome to my portfolio! I am **Dr. Vishakha Gupta**, a data scientist and publi
   <tr>
     <td width="33%">
       <a href="https://github.com/dr-vishakha-gupta/Vaccination_Impact_Analysis">
-        <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/vaccine_analysis.png" width="100%">
+        <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/covid_19.jpg" width="100%">
         <h3>Vaccination Impact Analysis</h3>
       </a>
       <p>Analyzed the impact of COVID-19 vaccination programs.</p>
