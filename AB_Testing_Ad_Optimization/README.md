@@ -44,32 +44,42 @@ We use **stacked bar charts, pie charts, and box plots** to visualize these rela
 
 ## 📊 **Statistical Hypothesis Testing**  
 
-### **1️⃣ Chi-Squared Test of Independence**  
+### **1️⃣ Chi-Square Test of Independence**  
 We assess whether **categorical variables (e.g., day of the week, time of day)** significantly impact conversion rates.  
 
 📌 **Null Hypothesis (H₀):** *There is no relationship between ad display day/time and conversion status.*  
 📌 **Alternative Hypothesis (H₁):** *There is a significant relationship between these variables.*  
 
-🖼 **Chi-Squared Test Results:**  
-![Chi-Square Results](INSERT_IMAGE_LINK_HERE)  
+📊 **Test Results:**  
+
+| **Variable**         | **Chi-Square Value** | **p-value** | **Conclusion** |
+|----------------------|---------------------|-------------|---------------|
+| **Test Group vs. Conversion** | 54.01 | 0.0000000000199 | ✅ Reject H₀ (Significant) |
+| **Most Ads Day vs. Conversion** | 410.05 | 0.000000000000000000000000000000000193 | ✅ Reject H₀ (Significant) |
+| **Most Ads Hour vs. Conversion** | 430.77 | 0.0000000000000000000000000000000000803 | ✅ Reject H₀ (Significant) |
+
+🔍 **Interpretation:**  
+✔ **Test group significantly affects conversion rates**, meaning ad variations **impact user behavior**.  
+✔ **Ad display day and hour have a strong effect**, suggesting that **optimal scheduling is crucial** for conversions.  
+✔ **Since all p-values are below 0.05**, we confidently **reject the null hypothesis** in all cases.  
 
 ### **2️⃣ Mann-Whitney U Test**  
-For **continuous variables** like **total ad displays**, we check if distributions **differ significantly** between converted and non-converted groups.  
+For **continuous variables** like **total ad displays**, we check if distributions **differ significantly** between converted and non-converted users.  
 
 📌 **Null Hypothesis (H₀):** *The distribution of ad exposures is the same for both groups.*  
 📌 **Alternative Hypothesis (H₁):** *The distribution differs significantly between converted and non-converted users.*  
 
-🖼 **Mann-Whitney U Test Results:**  
-![Mann-Whitney U](INSERT_IMAGE_LINK_HERE)  
+📊 **Test Results:**  
 
-## 🎯 **Key Insights & Business Impact**  
-✔ **Ad Timing Matters:** Certain hours of the day **show significantly higher conversion rates**.  
-✔ **Day of the Week is a Key Factor:** Weekends may have a different **ad engagement pattern** than weekdays.  
-✔ **Ad Exposure is Non-Linear:** More ads **don’t always lead to more conversions**—an optimal threshold exists.  
-✔ **Statistically Significant Relationships Found:** Chi-Squared and Mann-Whitney U tests confirm **data-driven ad strategy improvements**.  
+| **Metric**           | **U Statistic** | **p-value** | **Conclusion** |
+|----------------------|----------------|-------------|---------------|
+| **Total Ads vs. Conversion** | Not explicitly printed | 0.00 | ✅ Reject H₀ (Significant) |
 
-## 🚀 **Recommendations for Ad Optimization**  
-🔹 **Adjust Ad Scheduling:** Focus ad displays on **high-conversion time slots**.  
-🔹 **Segment Audiences by Day:** Tailor ad creatives or promotions for **weekdays vs. weekends**.  
-🔹 **Optimize Ad Frequency:** Avoid **overexposure** by determining the optimal number of impressions.  
-🔹 **Run Further Experiments:** Test new ad variations using **multivariate A/B testing** for deeper insights.
+🔍 **Interpretation:**  
+✔ **Since the p-value is 0.00 (less than 0.05), we reject H₀**, meaning **the number of ad exposures has a significant impact on conversions**.  
+✔ **More ads do not always lead to better conversions**, indicating an **optimal frequency threshold should be determined**.  
+
+### **🚀 Business Insights & Recommendations**  
+✅ **Optimize Ad Scheduling** – Since **ad display day & hour significantly affect conversions**, focus more on high-impact periods.  
+✅ **Segment & Test Different Groups** – The **test group showed significant differences**, suggesting **A/B testing should be used strategically**.  
+✅ **Adjust Ad Frequency** – More ads **do not always improve conversions**, meaning an **optimal ad exposure threshold should be identified**.  
