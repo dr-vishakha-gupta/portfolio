@@ -59,7 +59,7 @@ Welcome to my portfolio! I am **Dr. Vishakha Gupta**, a data scientist and publi
   <tr>
     <td width="33%">
       <a href="https://github.com/dr-vishakha-gupta/Hospital_Utilization_Analysis">
-        <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/Health_expenditure.jpg" width="100%">
+        <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/hospital.jpg" width="100%">
         <h3>Hospital Resource Optimization</h3>
       </a>
       <p>Analyzed hospital admission patterns and resource allocation.</p>
