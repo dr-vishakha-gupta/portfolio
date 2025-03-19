@@ -46,7 +46,7 @@ We use **stacked bar charts, pie charts, and box plots** to visualize these rela
 ![Conversion Rate by Day](INSERT_IMAGE_LINK_HERE)  
 
 🖼 **Box Plot: Total Ad Displays vs. Conversion Status**  
-![Box Plot](INSERT_IMAGE_LINK_HERE)  
+![Box Plot](https://github.com/dr-vishakha-gupta/portfolio/blob/main/AB_Testing_Ad_Optimization/Conversion%20Rate%20by%20test%20group.png)  
 
 ---
 
