@@ -42,6 +42,7 @@ We use **stacked bar charts, pie charts, and box plots** to visualize these rela
 🖼 **Box Plot: Total Ad Displays vs. Conversion Status**  
 ![Box Plot](https://github.com/dr-vishakha-gupta/portfolio/blob/main/AB_Testing_Ad_Optimization/Conversion%20Rate%20by%20test%20group.png)  
 
+
 ## 📊 **Statistical Hypothesis Testing**  
 
 ### **1️⃣ Chi-Square Test of Independence**  
@@ -49,6 +50,7 @@ We assess whether **categorical variables (e.g., day of the week, time of day)**
 
 📌 **Null Hypothesis (H₀):** *There is no relationship between ad display day/time and conversion status.*  
 📌 **Alternative Hypothesis (H₁):** *There is a significant relationship between these variables.*  
+
 
 📊 **Test Results:**  
 
@@ -63,6 +65,7 @@ We assess whether **categorical variables (e.g., day of the week, time of day)**
 ✔ **Ad display day and hour have a strong effect**, suggesting that **optimal scheduling is crucial** for conversions.  
 ✔ **Since all p-values are below 0.05**, we confidently **reject the null hypothesis** in all cases.  
 
+
 ### **2️⃣ Mann-Whitney U Test**  
 For **continuous variables** like **total ad displays**, we check if distributions **differ significantly** between converted and non-converted users.  
 
@@ -75,9 +78,11 @@ For **continuous variables** like **total ad displays**, we check if distributio
 |----------------------|----------------|-------------|---------------|
 | **Total Ads vs. Conversion** | Not explicitly printed | 0.00 | ✅ Reject H₀ (Significant) |
 
+
 🔍 **Interpretation:**  
 ✔ **Since the p-value is 0.00 (less than 0.05), we reject H₀**, meaning **the number of ad exposures has a significant impact on conversions**.  
 ✔ **More ads do not always lead to better conversions**, indicating an **optimal frequency threshold should be determined**.  
+
 
 ### **🚀 Business Insights & Recommendations**  
 ✅ **Optimize Ad Scheduling** – Since **ad display day & hour significantly affect conversions**, focus more on high-impact periods.  
