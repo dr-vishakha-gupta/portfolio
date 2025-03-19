@@ -9,14 +9,10 @@ The methodology combines **exploratory data analysis (EDA)** with **rigorous sta
 
 This analysis enables **data-driven decision-making** for optimizing ad performance and increasing conversions.  
 
----
-
 ## 🛠 **Tools & Technologies**  
 ✅ **Programming:** Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn)  
 ✅ **Statistical Testing:** Chi-Squared Test, Mann-Whitney U Test  
 ✅ **Visualization:** Stacked Bar Charts, Box Plots, Pie Charts  
-
----
 
 ## 🔍 **Exploratory Data Analysis (EDA)**  
 
@@ -31,8 +27,6 @@ We analyze:
 
 🖼 **Most Ads - Hour of Day:**  
 ![Most Ads - Hour of Day](https://github.com/dr-vishakha-gupta/portfolio/blob/main/AB_Testing_Ad_Optimization/Most%20ads-%20Hour%20of%20day.png)
-  
----
 
 ### **2️⃣ Conversion Analysis & Visualization**  
 To identify meaningful patterns, we compare **conversion rates** against:  
@@ -48,8 +42,6 @@ We use **stacked bar charts, pie charts, and box plots** to visualize these rela
 🖼 **Box Plot: Total Ad Displays vs. Conversion Status**  
 ![Box Plot](https://github.com/dr-vishakha-gupta/portfolio/blob/main/AB_Testing_Ad_Optimization/Conversion%20Rate%20by%20test%20group.png)  
 
----
-
 ## 📊 **Statistical Hypothesis Testing**  
 
 ### **1️⃣ Chi-Squared Test of Independence**  
@@ -61,8 +53,6 @@ We assess whether **categorical variables (e.g., day of the week, time of day)**
 🖼 **Chi-Squared Test Results:**  
 ![Chi-Square Results](INSERT_IMAGE_LINK_HERE)  
 
----
-
 ### **2️⃣ Mann-Whitney U Test**  
 For **continuous variables** like **total ad displays**, we check if distributions **differ significantly** between converted and non-converted groups.  
 
@@ -72,15 +62,11 @@ For **continuous variables** like **total ad displays**, we check if distributio
 🖼 **Mann-Whitney U Test Results:**  
 ![Mann-Whitney U](INSERT_IMAGE_LINK_HERE)  
 
----
-
 ## 🎯 **Key Insights & Business Impact**  
 ✔ **Ad Timing Matters:** Certain hours of the day **show significantly higher conversion rates**.  
 ✔ **Day of the Week is a Key Factor:** Weekends may have a different **ad engagement pattern** than weekdays.  
 ✔ **Ad Exposure is Non-Linear:** More ads **don’t always lead to more conversions**—an optimal threshold exists.  
 ✔ **Statistically Significant Relationships Found:** Chi-Squared and Mann-Whitney U tests confirm **data-driven ad strategy improvements**.  
-
----
 
 ## 🚀 **Recommendations for Ad Optimization**  
 🔹 **Adjust Ad Scheduling:** Focus ad displays on **high-conversion time slots**.  
