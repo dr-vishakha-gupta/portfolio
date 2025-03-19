@@ -43,7 +43,7 @@ To identify meaningful patterns, we compare **conversion rates** against:
 We use **stacked bar charts, pie charts, and box plots** to visualize these relationships.  
 
 🖼 **Conversion Rate by Day of the Week:**  
-![Conversion Rate by Day](INSERT_IMAGE_LINK_HERE)  
+![Conversion Rate by Day](https://github.com/dr-vishakha-gupta/portfolio/blob/main/AB_Testing_Ad_Optimization/Conversion%20rate%20by%20Most%20ads.png)  
 
 🖼 **Box Plot: Total Ad Displays vs. Conversion Status**  
 ![Box Plot](https://github.com/dr-vishakha-gupta/portfolio/blob/main/AB_Testing_Ad_Optimization/Conversion%20Rate%20by%20test%20group.png)  
