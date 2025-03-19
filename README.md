@@ -1,8 +1,6 @@
 ## 👩‍💻 About Me  
 Welcome to my portfolio! I am **Dr. Vishakha Gupta**, a senior analyst specializing in **data-driven decision-making, machine learning, NLP, and business intelligence**. My expertise lies in **bridging technology, analytics, and strategy** to uncover insights that drive **business objectives and impact**.  
 
-📢 *“Turning raw data into actionable insights that drive real-world impact!”*  
-
 ---
 
 ## 🚀 **Featured Projects**  
