@@ -50,7 +50,7 @@ The database schema consists of a **single table** named `netflix`:
 - Rank the countries based on content production.  
 
 🖼 **Query Screenshot**:  
-![Top Countries Query](path/to/top_countries_query.png)  
+![Top Countries Query](https://github.com/dr-vishakha-gupta/portfolio/blob/main/Netflix-EDA-SQL/Top5Countries.png)  
 
 🖼 **Results Screenshot**:  
 ![Top Countries Results](path/to/top_countries_results.png)  
