@@ -1,5 +1,5 @@
 # 🎬 Netflix SQL Analysis Project  
-![Netflix Screenshot](https://github.com/your-username/your-repo-name/blob/main/netflix_image.png)   
+![Netflix Screenshot](https://github.com/dr-vishakha-gupta/portfolio/blob/main/Netflix-EDA-SQL/NetflixLogo.webp)   
 
 ## 📌 Project  
 This project aims to analyze **Netflix's movie and TV show catalog** using **SQL** to uncover **key business insights**. It includes **data exploration, trend analysis, and content distribution insights** to support **data-driven decision-making**.  
