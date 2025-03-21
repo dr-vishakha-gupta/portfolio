@@ -7,114 +7,115 @@ This project aims to analyze **Netflix's movie and TV show catalog** using **SQL
 ---
 
 ## 🎯 Objective  
-The goal of this project is to:  
-✔ Perform **Exploratory Data Analysis (EDA)** on Netflix content.  
-✔ Extract **actionable business insights** using **SQL queries**.  
-✔ Showcase **basic, intermediate, and advanced SQL skills** (Joins, Window Functions, CTEs, Subqueries).  
-✔ Understand **content distribution trends**, **popular actors**, and **regional content patterns**.  
+The goal of this analysis is to:  
+- Perform **Exploratory Data Analysis (EDA)** on Netflix content.
+- Understand **content trends** across different countries and years.  
+- Identify **frequent actor pairings** and **top directors**.  
+- Analyze **Netflix’s content growth strategy**.  
+- Find the **highest-rated content per year**.  
 
 ---
 
-## 📊 Dataset  
-The dataset contains **Netflix movie and TV show details**, including:  
+## 🏛 Schema  
+The dataset is structured as follows:  
 
-| Column Name  | Description  |
-|-------------|--------------|
-| `show_id`   | Unique identifier for each title  |
-| `type`      | Type of content (Movie or TV Show)  |
-| `title`     | Name of the show  |
-| `director`  | Director(s) of the show  |
-| `casts`     | List of actors  |
-| `country`   | Country of production  |
-| `date_added` | Date the show was added to Netflix  |
-| `release_year` | Year of release  |
-| `rating`    | Content rating (PG, R, etc.)  |
-| `duration`  | Duration of movies (in minutes) or TV show seasons  |
-| `listed_in` | Genre(s) of the content  |
-| `description` | Short summary of the show  |
+| Column Name   | Data Type  | Description |
+|--------------|-----------|-------------|
+| `show_id`    | STRING    | Unique ID for each title |
+| `title`      | STRING    | Name of the show or movie |
+| `director`   | STRING    | Director(s) of the content |
+| `casts`      | STRING    | Main actors in the content |
+| `country`    | STRING    | Country of origin |
+| `release_year` | INT      | Year of release |
+| `rating`     | STRING    | Age rating (e.g., PG-13, TV-MA) |
+| `duration`   | STRING    | Number of seasons (TV) or minutes (Movies) |
+| `genre`      | STRING    | Type of content (e.g., Drama, Comedy) |
 
 ---
 
-## 📂 Schema  
-The database schema consists of a **single table** named `netflix`:  
+## 🔍 Business Problems & Solutions  
 
-![Schema Screenshot](path/to/schema_screenshot.png)  
+### **1️⃣ Rank the Top 5 Countries by Average Yearly Content Release**  
+#### **Problem:**  
+Which countries contribute the most content to Netflix over the years?  
 
----
-
-## 🏢 Business Problem and Solutions  
-
-### **Problem 1: Which countries produce the most content on Netflix?**  
-📌 **Solution**:  
-- Count the number of content pieces per country.  
-- Rank the countries based on content production.  
+#### **Solution Approach:**  
+- Calculate the **total content** released per country **each year**.  
+- Compute the **average releases per year** for each country.  
+- Rank the **top 5 countries** with the highest average content releases.  
 
 🖼 **Query Screenshot**:  
 ![Top Countries Query](https://github.com/dr-vishakha-gupta/portfolio/blob/main/Netflix-EDA-SQL/Top5Countries.png)  
-
-🖼 **Results Screenshot**:  
-![Top Countries Results](path/to/top_countries_results.png)  
-
-**🔍 Findings**: The top **5 countries** with the most Netflix content are identified.  
+ 
+📌 **Insight:**  
+The **United States** and **India** are leading contributors, highlighting their dominant role in Netflix's content library.  
 
 ---
 
-### **Problem 2: What are the most common actor pairings?**  
-📌 **Solution**:  
-- Extract individual actors from the `casts` column.  
-- Find frequent co-appearances in Netflix titles.  
+### **2️⃣ Identify the Most Frequent Actor Pairings**  
+#### **Problem:**  
+Which actor duos frequently appear together in Netflix content?  
+
+#### **Solution Approach:**  
+- Split the **comma-separated actor list** into **individual actor records**.  
+- Find all possible actor **pairings**.  
+- Count occurrences and rank the **most frequent actor pairs**.  
 
 🖼 **Query Screenshot**:  
-![Actor Pairings Query](path/to/actor_pairings_query.png)  
+![Actor Pairings Query](https://github.com/dr-vishakha-gupta/portfolio/blob/main/Netflix-EDA-SQL/MostFrequentActorpair.png)  
 
-🖼 **Results Screenshot**:  
-![Actor Pairings Results](path/to/actor_pairings_results.png)  
-
-**🔍 Findings**: Identifies actor pairs that frequently collaborate in Netflix productions.  
+📌 **Insight:**  
+Certain actor duos appear in multiple Netflix productions, showing **strong collaborations** in the industry.  
 
 ---
 
-### **Problem 3: Which TV shows have more than 3 seasons?**  
-📌 **Solution**:  
-- Extract the number of seasons from the `duration` column.  
-- Convert it to an integer and filter shows with **more than 3 seasons**.  
+### **3️⃣ Find the Longest Gap Between a Director’s Releases**  
+#### **Problem:**  
+Which director had the **longest time gap** between two Netflix releases?  
+
+#### **Solution Approach:**  
+- Extract **each director’s release years**.  
+- Use **window functions** to calculate the **gap between consecutive releases**.  
+- Find the **maximum gap** for each director and rank them.  
 
 🖼 **Query Screenshot**:  
-![TV Shows Query](path/to/tv_shows_query.png)  
+![TV Shows Query](https://github.com/dr-vishakha-gupta/portfolio/blob/main/Netflix-EDA-SQL/DirectorRelease.png)  
 
-🖼 **Results Screenshot**:  
-![TV Shows Results](path/to/tv_shows_results.png)  
-
-**🔍 Findings**: Identifies **long-running TV shows** on Netflix.  
+📌 **Insight:**  
+Some directors take **long breaks** between projects, possibly for **high-quality production efforts** or **creative shifts**.   
 
 ---
 
-### **Problem 4: What are the most popular genres on Netflix?**  
-📌 **Solution**:  
-- Count the number of titles per genre.  
+### **4️⃣ Analyze the Growth Rate of Netflix Content Over the Years**  
+#### **Problem:**  
+How has Netflix’s content **expanded over time**?  
+
+#### **Solution Approach:**  
+- Count the **number of releases per year**.  
+- Use **window functions** to calculate the **year-over-year growth rate**.  
+- Identify **trends in Netflix's expansion strategy**.  
 
 🖼 **Query Screenshot**:  
-![Popular Genres Query](path/to/popular_genres_query.png)  
+![Popular Genres Query](https://github.com/dr-vishakha-gupta/portfolio/blob/main/Netflix-EDA-SQL/GrowthRateNetflix.png)  
 
-🖼 **Results Screenshot**:  
-![Popular Genres Results](path/to/popular_genres_results.png)  
-
-**🔍 Findings**: Identifies the **most popular genres** on Netflix.  
+📌 **Insight:**  
+Netflix saw a **major surge in content releases post-2015**, reflecting its shift towards **original content production**.  
 
 ---
 
-### **Problem 5: How has Netflix's content production evolved over time?**  
-📌 **Solution**:  
-- Count the number of releases per year.  
+### **5️⃣ Find the Highest-Rated Content Per Year**  
+#### **Problem:**  
+Which movie or show had the **highest rating each year**?  
+
+#### **Solution Approach:**  
+- Rank all content per year **by rating**.  
+- Extract the **top-ranked** content for each year.  
 
 🖼 **Query Screenshot**:  
-![Content Trend Query](path/to/content_trend_query.png)  
+![Content Trend Query](https://github.com/dr-vishakha-gupta/portfolio/blob/main/Netflix-EDA-SQL/HighestRatedContent.png)  
 
-🖼 **Results Screenshot**:  
-![Content Trend Results](path/to/content_trend_results.png)  
-
-**🔍 Findings**: Shows the **content release trend over the years**.  
-
+📌 **Insight:**  
+Certain critically acclaimed shows/movies stand out **as top-rated** in their release years.  
 ---
 
 ## 📈 Findings  
