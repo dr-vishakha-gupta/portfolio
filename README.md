@@ -89,7 +89,7 @@ With a strong foundation in statistical modeling, predictive analytics and data 
       <p>Analyzed the impact of COVID-19 vaccination programs.</p>
     </td>
     <td width="33%">
-      <a href="https://github.com/dr-vishakha-gupta/portfolio/tree/main/Netflix_EDA_SQL">
+      <a href="https://github.com/dr-vishakha-gupta/portfolio/tree/main/Netflix-EDA-SQL">
         <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/Netflix.jpg" width="100%">
         <h3>Netflix SQL Analysis: Content & Growth Trends</h3>
       </a>
