@@ -62,7 +62,7 @@ Which actor duos frequently appear together in Netflix content?
 - Count occurrences and rank the **most frequent actor pairs**.  
 
 🖼 **Query Screenshot**:  
-![Actor Pairings Query](https://github.com/dr-vishakha-gupta/portfolio/blob/main/Netflix-EDA-SQL/MostFrequentActorpair.png)  
+![Actor Pairings Query](https://github.com/dr-vishakha-gupta/portfolio/blob/main/Netflix-EDA-SQL/MostFrequentActorPair.png)  
 
 📌 **Insight:**  
 Certain actor duos appear in multiple Netflix productions, showing **strong collaborations** in the industry.  
@@ -116,11 +116,11 @@ Which movie or show had the **highest rating each year**?
 
 📌 **Insight:**  
 Certain critically acclaimed shows/movies stand out **as top-rated** in their release years.  
+
 ---
 
 ## 📈 Findings  
 
-### 🔹 **Content Trends**  
 ✔ The **USA, India, and UK** have the **highest number of Netflix titles**.  
 ✔ **Dramas and Comedies** are the **most common genres**.  
 
