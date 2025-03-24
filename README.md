@@ -4,45 +4,50 @@ I am Dr. Vishakha Gupta, a Senior Analyst with expertise in data science, machin
 With a strong foundation in statistical modeling, predictive analytics and data visualization, I transform complex data into meaningful insights that inform business growth, operational efficiency and customer engagement.
 
 ## 📄 Published Papers & Reports
+## 📄 Published Papers & Reports
 <table>
   <tr>
     <td width="50%" style="padding: 20px; border: 2px solid #2c3e50; border-radius: 15px; text-align: center; vertical-align: top;">
-      <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/ohdsi.webp" alt="OHDSI Project" style="
-        width: 100%; 
-        max-height: 250px; 
-        object-fit: contain; 
-        margin-bottom: 15px;
-      ">
-      <h3 style="
-        color: #2c3e50; 
-        margin-top: 10px; 
-        font-size: 18px; 
-        font-weight: bold;
-      ">
-        Advancing the OHDSI Analysis Viewer
-      </h3>
-      <p style="color: #34495e; font-size: 14px;">
-        Research project focused on enhancing data analysis capabilities in observational health research.
-      </p>
+      <a href="https://ohdsi.org" target="_blank" style="text-decoration: none; color: inherit;">
+        <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/ohdsi.webp" alt="OHDSI Project" style="
+          width: 80%; 
+          max-height: 200px; 
+          object-fit: contain; 
+          margin-bottom: 15px;
+        ">
+        <h3 style="
+          color: #2c3e50; 
+          margin-top: 10px; 
+          font-size: 18px; 
+          font-weight: bold;
+        ">
+          Advancing the OHDSI Analysis Viewer
+        </h3>
+        <p style="color: #34495e; font-size: 14px;">
+          Research project focused on enhancing data analysis capabilities in observational health research.
+        </p>
+      </a>
     </td>
     <td width="50%" style="padding: 20px; border: 2px solid #2c3e50; border-radius: 15px; text-align: center; vertical-align: top;">
-      <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/ehj.png" alt="Cardiovascular Risk Scores Project" style="
-        width: 100%; 
-        max-height: 250px; 
-        object-fit: contain; 
-        margin-bottom: 15px;
-      ">
-      <h3 style="
-        color: #2c3e50; 
-        margin-top: 10px; 
-        font-size: 18px; 
-        font-weight: bold;
-      ">
-        Evaluation of Cardiovascular Risk Scores
-      </h3>
-      <p style="color: #34495e; font-size: 14px;">
-        Comprehensive analysis of cardiovascular risk assessment methodologies and their clinical implications.
-      </p>
+      <a href="https://academic.oup.com/eurheartj" target="_blank" style="text-decoration: none; color: inherit;">
+        <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/ehj.png" alt="Cardiovascular Risk Scores Project" style="
+          width: 80%; 
+          max-height: 200px; 
+          object-fit: contain; 
+          margin-bottom: 15px;
+        ">
+        <h3 style="
+          color: #2c3e50; 
+          margin-top: 10px; 
+          font-size: 18px; 
+          font-weight: bold;
+        ">
+          Evaluation of Cardiovascular Risk Scores
+        </h3>
+        <p style="color: #34495e; font-size: 14px;">
+          Comprehensive analysis of cardiovascular risk assessment methodologies and their clinical implications.
+        </p>
+      </a>
     </td>
   </tr>
 </table>
