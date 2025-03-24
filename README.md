@@ -59,25 +59,27 @@ With a strong foundation in statistical modeling, predictive analytics and data 
 
 ## 🚀 **Featured Projects**  
 
+## 🚀 **Featured Projects**  
+
 <table>
   <tr>
     <td width="33%">
       <a href="https://github.com/dr-vishakha-gupta/portfolio/tree/main/AB_Testing_Ad_Optimization">
-        <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/AB-Testing.png" width="100%">
+        <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/AB-Testing.png" width="100%">
         <h3>A/B Testing for Ad Performance</h3>
       </a>
       <p>Optimized ad placement & analyzed conversion rates using statistical tests.</p>
     </td>
     <td width="33%">
       <a href="https://github.com/dr-vishakha-gupta/portfolio/tree/main/Bike_Sharing_Insights_EDA_TimeSeries">
-        <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/Bike_Ride.png" width="100%">
+        <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/Bike_Ride.png" width="100%">
         <h3>Time Series Forecasting for Bike-Sharing Demand</h3>
       </a>
       <p>Explored bike-sharing trends & built predictive models.</p>
     </td>
     <td width="33%">
       <a href="https://github.com/dr-vishakha-gupta/portfolio/tree/main/Customer-Segmentation">
-        <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/CustomerSegmentation.jpeg" width="100%">
+        <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/CustomerSegmentation.jpeg" width="100%">
         <h3>Customer Segmentation Using Machine Learning Model</h3>
       </a>
       <p>Used clustering techniques to identify customer segments in retail data.</p>
@@ -87,24 +89,21 @@ With a strong foundation in statistical modeling, predictive analytics and data 
   <tr>
     <td width="33%">
       <a href="https://github.com/dr-vishakha-gupta/portfolio/tree/main/E-commerce_Sales_Analysis">
-        <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/E-commerce.jpg" width="100%">
+        <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/E-commerce.jpg" width="100%">
         <h3>E-commerce Sales Trends & Consumer Behavior Analytics</h3>
-
-
-          
       </a>
       <p>Analyzed customer purchasing behavior & sales trends.</p>
     </td>
     <td width="33%">
       <a href="https://github.com/dr-vishakha-gupta/portfolio/tree/main/EV_Market_Analysis">
-        <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/EV.jpg" width="100%">
+        <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/EV.jpg" width="100%">
         <h3>EV Market Analysis</h3>
       </a>
       <p>Studied electric vehicle sales & market trends using data analytics.</p>
     </td>
     <td width="33%">
       <a href="https://github.com/dr-vishakha-gupta/portfolio/tree/main/Healthcare_Expenditure_Econometric_Modeling">
-        <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/Health_expenditure.jpg" width="100%">
+        <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/Health_expenditure.jpg" width="100%">
         <h3>Healthcare Cost Analysis Using Econometric Modeling</h3>
       </a>
       <p>Built econometric models to analyze healthcare spending patterns.</p>
@@ -114,21 +113,21 @@ With a strong foundation in statistical modeling, predictive analytics and data 
   <tr>
     <td width="33%">
       <a href="https://github.com/dr-vishakha-gupta/portfolio/tree/main/Hospital_Utilization_Analysis">
-        <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/hospital.jpg" width="100%">
+        <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/hospital.jpg" width="100%">
         <h3>Hospital Resource Optimization</h3>
       </a>
       <p>Analyzed hospital admission patterns and resource allocation.</p>
     </td>
     <td width="33%">
       <a href="https://github.com/dr-vishakha-gupta/portfolio/tree/main/Marathon_Insights_EDA">
-        <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/marathon.webp" width="100%">
+        <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/refs/heads/main/images/marathon.webp" width="100%">
         <h3>Marathon Performance Analytics: Trends & Predictions</h3>
       </a>
       <p>Explored marathon runner data to uncover performance trends.</p>
     </td>
     <td width="33%">
       <a href="https://github.com/dr-vishakha-gupta/portfolio/tree/main/NLP_Sentiment_Insights">
-        <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/sentiment%20analysis.jpg" width="100%">
+        <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/sentiment%20analysis.jpg" width="100%">
         <h3>Sentiment Analysis of Customer Reviews Using NLP</h3>
       </a>
       <p>Performed sentiment analysis on text data using NLP techniques.</p>
@@ -138,17 +137,33 @@ With a strong foundation in statistical modeling, predictive analytics and data 
   <tr>
     <td width="33%">
       <a href="https://github.com/dr-vishakha-gupta/portfolio/tree/main/Vaccination_Impact_Analysis">
-        <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/covid_19.jpg" width="100%">
+        <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/covid_19.jpg" width="100%">
         <h3>Vaccination Impact Analysis</h3>
       </a>
       <p>Analyzed the impact of COVID-19 vaccination programs.</p>
     </td>
     <td width="33%">
       <a href="https://github.com/dr-vishakha-gupta/portfolio/tree/main/Netflix-EDA-SQL">
-        <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/Netflix.jpg" width="100%">
+        <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/Netflix.jpg" width="100%">
         <h3>Netflix SQL Analysis: Content & Growth Trends</h3>
-      </a>
-      <p>Explored Netflix dataset to identify content trends and business insights.</p>
-    </td>
-  </tr>
-</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
