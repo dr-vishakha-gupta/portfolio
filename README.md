@@ -5,27 +5,21 @@ With a strong foundation in statistical modeling, predictive analytics and data 
 
 ## 📄 Published Papers & Reports  
 
-## 📄 Published Papers & Reports  
-
-<div style="display: flex; justify-content: center; gap: 40px; align-items: center; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; gap: 20px; align-items: stretch; flex-wrap: wrap;">
 
   <!-- OHDSI Paper -->
-  <div style="border: 2px solid #ddd; padding: 20px; width: 350px; text-align: center; border-radius: 12px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); background-color: #f9f9f9;">
-    <a href="https://www.ohdsi.org/2024showcase-122/" target="_blank">
-      <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/ohdsi.webp" width="250" alt="OHDSI Research Showcase">
-    </a>
-    <h3 style="margin-top: 15px;">
-      <a href="https://www.ohdsi.org/2024showcase-122/" target="_blank" style="text-decoration: none; color: #0073e6;">Advancing the OHDSI Analysis Viewer</a>
+  <div style="border: 1px solid #ddd; padding: 15px; width: 300px; text-align: left; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); background-color: white;">
+    <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/ohdsi.webp" width="100%" style="border-radius: 8px;">
+    <h3 style="margin-top: 10px; font-size: 16px; font-weight: bold;">
+      <a href="https://www.ohdsi.org/2024showcase-122/" target="_blank" style="text-decoration: none; color: black;">Advancing the OHDSI Analysis Viewer</a>
     </h3>
   </div>
 
   <!-- EHJ Paper -->
-  <div style="border: 2px solid #ddd; padding: 20px; width: 350px; text-align: center; border-radius: 12px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); background-color: #f9f9f9;">
-    <a href="https://academic.oup.com/eurheartj/article/44/Supplement_1/ehac779.129/7000452?login=false" target="_blank">
-      <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/ehj.png" width="250" alt="European Heart Journal">
-    </a>
-    <h3 style="margin-top: 15px;">
-      <a href="https://academic.oup.com/eurheartj/article/44/Supplement_1/ehac779.129/7000452?login=false" target="_blank" style="text-decoration: none; color: #0073e6;">Evaluation of Cardiovascular Risk Scores</a>
+  <div style="border: 1px solid #ddd; padding: 15px; width: 300px; text-align: left; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); background-color: white;">
+    <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/ehj.png" width="100%" style="border-radius: 8px;">
+    <h3 style="margin-top: 10px; font-size: 16px; font-weight: bold;">
+      <a href="https://academic.oup.com/eurheartj/article/44/Supplement_1/ehac779.129/7000452?login=false" target="_blank" style="text-decoration: none; color: black;">Evaluation of Cardiovascular Risk Scores</a>
     </h3>
   </div>
 
