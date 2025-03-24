@@ -8,7 +8,7 @@ With a strong foundation in statistical modeling, predictive analytics and data 
 Here are some of my published works in healthcare analytics and digital health:  
 
 <a href="https://www.ohdsi.org/2024showcase-122/" target="_blank">
-  <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/ohdsi.png" alt="OHDSI Research Showcase">
+  <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/ohdsi.webp" alt="OHDSI Research Showcase">
 </a>  
 **Advancing the OHDSI Analysis Viewer: Enhanced Performance, Integration, and User Experience**  
 Presented at OHDSI 2024, this work focuses on improving the OHDSI Analysis Viewer by enhancing performance, integration, and user experience.  
