@@ -5,7 +5,7 @@ With a strong foundation in statistical modeling, predictive analytics and data 
 
 ## 📄 Published Papers & Reports  
 
-<div style="display: flex; justify-content: center; gap: 20px; width: 100%; max-width: 900px; margin: auto;">
+<div style="display: flex; justify-content: center; gap: 20px; width: 100%; max-width: 200px; margin: auto;">
 
   <!-- OHDSI Paper -->
   <div style="flex: 1; border: 1px solid #ddd; padding: 15px; text-align: center; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); background-color: white;">
