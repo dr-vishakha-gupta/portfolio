@@ -4,51 +4,56 @@ I am Dr. Vishakha Gupta, a Senior Analyst with expertise in data science, machin
 With a strong foundation in statistical modeling, predictive analytics and data visualization, I transform complex data into meaningful insights that inform business growth, operational efficiency and customer engagement.
 
 ## 📄 Published Papers & Reports
+## 📄 Published Papers & Reports
 <table>
   <tr>
     <td width="50%" style="padding: 20px; border: 2px solid #2c3e50; border-radius: 15px; text-align: center; vertical-align: top;">
-      <a href="https://ohdsi.org" target="_blank" style="text-decoration: none; color: inherit;">
-        <div style="display: flex; justify-content: center; align-items: center; height: 200px;">
-          <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/ohdsi.webp" alt="OHDSI Project" style="
-            max-width: 100%; 
-            max-height: 100%; 
-            object-fit: contain;
-          ">
-        </div>
-        <h3 style="
-          color: #2c3e50; 
-          margin-top: 10px; 
-          font-size: 18px; 
-          font-weight: bold;
+      <a href="https://www.ohdsi.org/2024showcase-122/" target="_blank">
+        <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/ohdsi.webp" alt="OHDSI Project" style="
+          width: 80%; 
+          max-height: 200px; 
+          object-fit: contain; 
+          display: block;
+          margin: 0 auto 15px auto;
         ">
-          Advancing the OHDSI Analysis Viewer
-        </h3>
-        <p style="color: #34495e; font-size: 14px;">
-          Research project focused on enhancing data analysis capabilities in observational health research.
-        </p>
       </a>
+      <h3 style="
+        color: #2c3e50; 
+        margin-top: 10px; 
+        font-size: 18px; 
+        font-weight: bold;
+      ">
+        <a href="https://www.ohdsi.org/2024showcase-122/" target="_blank" style="text-decoration: none; color: #2c3e50;">
+          Advancing the OHDSI Analysis Viewer
+        </a>
+      </h3>
+      <p style="color: #34495e; font-size: 14px;">
+        Research project focused on enhancing data analysis capabilities in observational health research.
+      </p>
     </td>
     <td width="50%" style="padding: 20px; border: 2px solid #2c3e50; border-radius: 15px; text-align: center; vertical-align: top;">
-      <a href="https://academic.oup.com/eurheartj" target="_blank" style="text-decoration: none; color: inherit;">
-        <div style="display: flex; justify-content: center; align-items: center; height: 200px;">
-          <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/ehj.png" alt="Cardiovascular Risk Scores Project" style="
-            max-width: 100%; 
-            max-height: 100%; 
-            object-fit: contain;
-          ">
-        </div>
-        <h3 style="
-          color: #2c3e50; 
-          margin-top: 10px; 
-          font-size: 18px; 
-          font-weight: bold;
+      <a href="https://academic.oup.com/eurheartj/article/44/Supplement_1/ehac779.129/7000452?login=false" target="_blank">
+        <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/ehj.png" alt="Cardiovascular Risk Scores Project" style="
+          width: 80%; 
+          max-height: 200px; 
+          object-fit: contain; 
+          display: block;
+          margin: 0 auto 15px auto;
         ">
-          Evaluation of Cardiovascular Risk Scores
-        </h3>
-        <p style="color: #34495e; font-size: 14px;">
-          Comprehensive analysis of cardiovascular risk assessment methodologies and their clinical implications.
-        </p>
       </a>
+      <h3 style="
+        color: #2c3e50; 
+        margin-top: 10px; 
+        font-size: 18px; 
+        font-weight: bold;
+      ">
+        <a href="https://academic.oup.com/eurheartj/article/44/Supplement_1/ehac779.129/7000452?login=false" target="_blank" style="text-decoration: none; color: #2c3e50;">
+          Evaluation of Cardiovascular Risk Scores
+        </a>
+      </h3>
+      <p style="color: #34495e; font-size: 14px;">
+        Comprehensive analysis of cardiovascular risk assessment methodologies and their clinical implications.
+      </p>
     </td>
   </tr>
 </table>
