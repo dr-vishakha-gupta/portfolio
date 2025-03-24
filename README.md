@@ -5,28 +5,32 @@ With a strong foundation in statistical modeling, predictive analytics and data 
 
 ## 📄 Published Papers & Reports  
 
-<div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; align-items: center; text-align: center;">
-
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px;">
+  
   <!-- OHDSI Paper -->
-  <div style="width: 250px;">
+  <div style="flex: 1; min-width: 300px; display: flex; align-items: center; gap: 15px;">
     <a href="https://www.ohdsi.org/2024showcase-122/" target="_blank">
-      <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/ohdsi.webp" style="width: 120px; height: auto; display: block; margin: auto;" alt="OHDSI Research Showcase">
+      <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/ohdsi.webp" width="80" height="50" alt="OHDSI Research Showcase">
     </a>
-    <h3 style="font-size: 16px; margin-top: 10px;">
-      <a href="https://www.ohdsi.org/2024showcase-122/" target="_blank">Advancing the OHDSI Analysis Viewer</a>
-    </h3>
-    <p style="font-size: 14px;">Presented at OHDSI 2024, focusing on performance, integration, and user experience.</p>
+    <div>
+      <h3 style="margin: 0;">
+        <a href="https://www.ohdsi.org/2024showcase-122/" target="_blank">Advancing the OHDSI Analysis Viewer</a>
+      </h3>
+      <p style="margin: 0;">Presented at OHDSI 2024, focusing on performance, integration, and user experience.</p>
+    </div>
   </div>
 
   <!-- EHJ Paper -->
-  <div style="width: 250px;">
+  <div style="flex: 1; min-width: 300px; display: flex; align-items: center; gap: 15px;">
     <a href="https://academic.oup.com/eurheartj/article/44/Supplement_1/ehac779.129/7000452?login=false" target="_blank">
-      <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/ehj.png" style="width: 120px; height: auto; display: block; margin: auto;" alt="European Heart Journal">
+      <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/ehj.png" width="80" height="50" alt="European Heart Journal">
     </a>
-    <h3 style="font-size: 16px; margin-top: 10px;">
-      <a href="https://academic.oup.com/eurheartj/article/44/Supplement_1/ehac779.129/7000452?login=false" target="_blank">Evaluation of Cardiovascular Risk Scores</a>
-    </h3>
-    <p style="font-size: 14px;">Published in <i>European Heart Journal</i>, evaluating digital therapeutics for hypertension.</p>
+    <div>
+      <h3 style="margin: 0;">
+        <a href="https://academic.oup.com/eurheartj/article/44/Supplement_1/ehac779.129/7000452?login=false">Evaluation of Cardiovascular Risk Scores</a>
+      </h3>
+      <p style="margin: 0;">Published in <i>European Heart Journal</i>, evaluating digital therapeutics for hypertension.</p>
+    </div>
   </div>
 
 </div>
