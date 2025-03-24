@@ -5,28 +5,26 @@ With a strong foundation in statistical modeling, predictive analytics and data 
 
 ## 📄 Published Papers & Reports  
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px;">
-  
-  <!-- OHDSI Paper -->
-  <div style="width: 48%; min-width: 300px;">
+<div style="display: flex; gap: 20px; justify-content: center;">
+
+  <!-- OHDSI Paper Box -->
+  <div style="border: 2px solid #ccc; padding: 15px; width: 300px; text-align: center; border-radius: 10px;">
     <a href="https://www.ohdsi.org/2024showcase-122/" target="_blank">
-      <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/ohdsi.webp" width="80" alt="OHDSI Research Showcase">
+      <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/ohdsi.webp" width="180" alt="OHDSI Research Showcase">
     </a>
     <h3>
       <a href="https://www.ohdsi.org/2024showcase-122/" target="_blank">Advancing the OHDSI Analysis Viewer</a>
     </h3>
-    <p>Presented at OHDSI 2024, this work focuses on enhancing performance, integration, and user experience.</p>
   </div>
 
-  <!-- EHJ Paper -->
-  <div style="width: 48%; min-width: 300px;">
+  <!-- EHJ Paper Box -->
+  <div style="border: 2px solid #ccc; padding: 15px; width: 300px; text-align: center; border-radius: 10px;">
     <a href="https://academic.oup.com/eurheartj/article/44/Supplement_1/ehac779.129/7000452?login=false" target="_blank">
-      <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/ehj.png" width="80" alt="European Heart Journal">
+      <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/ehj.png" width="180" alt="European Heart Journal">
     </a>
     <h3>
       <a href="https://academic.oup.com/eurheartj/article/44/Supplement_1/ehac779.129/7000452?login=false">Evaluation of Cardiovascular Risk Scores</a>
     </h3>
-    <p>Published in <i>European Heart Journal</i>, this study evaluates digital therapeutic interventions for hypertension.</p>
   </div>
 
 </div>
