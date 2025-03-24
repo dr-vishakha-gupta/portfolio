@@ -4,7 +4,6 @@ I am Dr. Vishakha Gupta, a Senior Analyst with expertise in data science, machin
 With a strong foundation in statistical modeling, predictive analytics and data visualization, I transform complex data into meaningful insights that inform business growth, operational efficiency and customer engagement.
 
 ## 📄 Published Papers & Reports  
-## 📄 Published Papers & Reports  
 
 <div style="
   display: grid; 
@@ -25,7 +24,7 @@ With a strong foundation in statistical modeling, predictive analytics and data 
     box-shadow: 2px 2px 10px rgba(0,0,0,0.1); 
     background-color: white;
   ">
-    <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/ohdsi.webp" style="width: 100%; height: auto; max-height: 150px; object-fit: contain; border-radius: 8px;">
+    <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/ohdsi.webp" style="width: 50%; height: auto; max-height: 150px; object-fit: contain; border-radius: 8px;">
     <h3 style="margin-top: 10px; font-size: 16px; font-weight: bold;">Advancing the OHDSI Analysis Viewer</h3>
   </div>
 
@@ -38,7 +37,7 @@ With a strong foundation in statistical modeling, predictive analytics and data 
     box-shadow: 2px 2px 10px rgba(0,0,0,0.1); 
     background-color: white;
   ">
-    <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/ehj.png" style="width: 100%; height: auto; max-height: 150px; object-fit: contain; border-radius: 8px;">
+    <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/ehj.png" style="width: 50%; height: auto; max-height: 150px; object-fit: contain; border-radius: 8px;">
     <h3 style="margin-top: 10px; font-size: 16px; font-weight: bold;">Evaluation of Cardiovascular Risk Scores</h3>
   </div>
 
