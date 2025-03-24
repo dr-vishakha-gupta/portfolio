@@ -43,7 +43,6 @@ With a strong foundation in statistical modeling, predictive analytics and data 
 
 </div>
 
-https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/ehj.png
 
 ## 🚀 **Featured Projects**  
 
