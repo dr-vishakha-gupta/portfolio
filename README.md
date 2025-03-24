@@ -47,7 +47,7 @@ With a strong foundation in statistical modeling, predictive analytics and data 
         font-weight: bold;
       ">
         <a href="https://academic.oup.com/eurheartj/article/44/Supplement_1/ehac779.129/7000452?login=false" target="_blank" style="text-decoration: none; color: #2c3e50;">
-          Evaluation of Cardiovascular Risk Scores
+          Evaluation of cardiovascular risk scores after implementation of digital therapeutic intervention in patients with uncontrolled primary hypertension
         </a>
       </h3>
       <p style="color: #34495e; font-size: 14px;">
