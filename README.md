@@ -5,22 +5,39 @@ With a strong foundation in statistical modeling, predictive analytics and data 
 
 ## 📄 Published Papers & Reports  
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; width: 100%; max-width: 900px; margin: auto;">
+<div style="
+  display: grid; 
+  grid-template-columns: 1fr 1fr; 
+  gap: 20px; 
+  max-width: 1000px; 
+  margin: auto;
+  padding: 20px;
+">
 
-  <!-- OHDSI Paper -->
-  <div style="border: 1px solid #ddd; padding: 15px; text-align: center; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); background-color: white;">
-    <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/ohdsi.webp" style="width: 100%; height: auto; border-radius: 8px;">
-    <h3 style="margin-top: 10px; font-size: 16px; font-weight: bold;">
-      <a href="https://www.ohdsi.org/2024showcase-122/" target="_blank" style="text-decoration: none; color: black;">Advancing the OHDSI Analysis Viewer</a>
-    </h3>
+  <!-- Project 1 -->
+  <div style="
+    border: 1px solid #ddd; 
+    padding: 15px; 
+    text-align: center; 
+    border-radius: 10px; 
+    box-shadow: 2px 2px 10px rgba(0,0,0,0.1); 
+    background-color: white;
+  ">
+    <img src="your-image-url-here" style="width: 100%; height: 180px; object-fit: cover; border-radius: 8px;">
+    <h3 style="margin-top: 10px; font-size: 16px; font-weight: bold;">Advancing the OHDSI Analysis Viewer</h3>
   </div>
 
-  <!-- EHJ Paper -->
-  <div style="border: 1px solid #ddd; padding: 15px; text-align: center; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); background-color: white;">
-    <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/ehj.png" style="width: 100%; height: auto; border-radius: 8px;">
-    <h3 style="margin-top: 10px; font-size: 16px; font-weight: bold;">
-      <a href="https://academic.oup.com/eurheartj/article/44/Supplement_1/ehac779.129/7000452?login=false" target="_blank" style="text-decoration: none; color: black;">Evaluation of Cardiovascular Risk Scores</a>
-    </h3>
+  <!-- Project 2 -->
+  <div style="
+    border: 1px solid #ddd; 
+    padding: 15px; 
+    text-align: center; 
+    border-radius: 10px; 
+    box-shadow: 2px 2px 10px rgba(0,0,0,0.1); 
+    background-color: white;
+  ">
+    <img src="your-image-url-here" style="width: 100%; height: 180px; object-fit: cover; border-radius: 8px;">
+    <h3 style="margin-top: 10px; font-size: 16px; font-weight: bold;">Evaluation of Cardiovascular Risk Scores</h3>
   </div>
 
 </div>
