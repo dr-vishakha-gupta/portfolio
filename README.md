@@ -14,7 +14,7 @@ With a strong foundation in statistical modeling, predictive analytics and data 
   padding: 20px;
 ">
 
-  <!-- Project 1 -->
+  <!-- OHDSI Project -->
   <div style="
     border: 1px solid #ddd; 
     padding: 15px; 
@@ -23,11 +23,11 @@ With a strong foundation in statistical modeling, predictive analytics and data 
     box-shadow: 2px 2px 10px rgba(0,0,0,0.1); 
     background-color: white;
   ">
-    <img src="your-image-url-here" style="width: 100%; height: 180px; object-fit: cover; border-radius: 8px;">
+    <img src="" style="width: 100%; height: 180px; object-fit: cover; border-radius: 8px;">
     <h3 style="margin-top: 10px; font-size: 16px; font-weight: bold;">Advancing the OHDSI Analysis Viewer</h3>
   </div>
 
-  <!-- Project 2 -->
+  <!-- Cardiovascular Risk Scores Project -->
   <div style="
     border: 1px solid #ddd; 
     padding: 15px; 
@@ -36,7 +36,7 @@ With a strong foundation in statistical modeling, predictive analytics and data 
     box-shadow: 2px 2px 10px rgba(0,0,0,0.1); 
     background-color: white;
   ">
-    <img src="your-image-url-here" style="width: 100%; height: 180px; object-fit: cover; border-radius: 8px;">
+    <img src="your-cardiovascular-image-url-here" style="width: 100%; height: 180px; object-fit: cover; border-radius: 8px;">
     <h3 style="margin-top: 10px; font-size: 16px; font-weight: bold;">Evaluation of Cardiovascular Risk Scores</h3>
   </div>
 
