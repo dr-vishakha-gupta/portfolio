@@ -7,28 +7,29 @@ With a strong foundation in statistical modeling, predictive analytics and data 
 
 ## 📄 Published Papers & Reports  
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 50px; border-bottom: 2px solid #ddd; padding-bottom: 20px;">
+<div style="display: flex; gap: 30px; justify-content: center;">
 
-  <div style="text-align: center;">
+  <!-- OHDSI Paper -->
+  <div style="border: 2px solid #ddd; padding: 20px; width: 320px; text-align: center; border-radius: 12px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
     <a href="https://www.ohdsi.org/2024showcase-122/" target="_blank">
       <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/ohdsi.webp" width="200" alt="OHDSI Research Showcase">
     </a>
-    <h3 style="margin-top: 10px;">
-      <a href="https://www.ohdsi.org/2024showcase-122/" target="_blank" style="color: #0073e6;">Advancing the OHDSI Analysis Viewer</a>
+    <h3 style="margin-top: 15px;">
+      <a href="https://www.ohdsi.org/2024showcase-122/" target="_blank" style="text-decoration: none; color: #0073e6;">Advancing the OHDSI Analysis Viewer</a>
     </h3>
   </div>
 
-  <div style="text-align: center;">
+  <!-- EHJ Paper -->
+  <div style="border: 2px solid #ddd; padding: 20px; width: 320px; text-align: center; border-radius: 12px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
     <a href="https://academic.oup.com/eurheartj/article/44/Supplement_1/ehac779.129/7000452?login=false" target="_blank">
       <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/ehj.png" width="200" alt="European Heart Journal">
     </a>
-    <h3 style="margin-top: 10px;">
-      <a href="https://academic.oup.com/eurheartj/article/44/Supplement_1/ehac779.129/7000452?login=false" target="_blank" style="color: #0073e6;">Evaluation of Cardiovascular Risk Scores</a>
+    <h3 style="margin-top: 15px;">
+      <a href="https://academic.oup.com/eurheartj/article/44/Supplement_1/ehac779.129/7000452?login=false" target="_blank" style="text-decoration: none; color: #0073e6;">Evaluation of Cardiovascular Risk Scores</a>
     </h3>
   </div>
 
 </div>
-
 
 ## 🚀 **Featured Projects**  
 
