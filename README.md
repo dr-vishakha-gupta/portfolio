@@ -17,7 +17,7 @@ With a strong foundation in statistical modeling, predictive analytics and data 
 
     <td width="50%">
       <a href="https://academic.oup.com/eurheartj/article/44/Supplement_1/ehac779.129/7000452?login=false" target="_blank">
-        <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/ehj.png" width="100%" alt="European Heart Journal">
+        <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/ehj.png?raw=true" width="100%" alt="European Heart Journal">
       </a>
       <h3><a href="https://academic.oup.com/eurheartj/article/44/Supplement_1/ehac779.129/7000452?login=false" target="_blank">Evaluation of Cardiovascular Risk Scores</a></h3>
       <p>Published in the <i>European Heart Journal</i>, this study evaluates digital therapeutic interventions for hypertension.</p>
