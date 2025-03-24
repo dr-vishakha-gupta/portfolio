@@ -9,9 +9,9 @@ With a strong foundation in statistical modeling, predictive analytics and data 
     <td width="50%" style="padding: 20px; border: 2px solid #2c3e50; border-radius: 15px; text-align: center; vertical-align: middle;">
       <a href="https://www.ohdsi.org/2024showcase-122/" target="_blank">
         <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/ohdsi.webp" alt="OHDSI Project" style="
-          width: 80%; 
-          height: 180px; 
-          object-fit: contain; 
+          width: 100%;
+          height: 200px; 
+          object-fit: cover; 
           display: block;
           margin: 0 auto;
         ">
@@ -28,9 +28,9 @@ With a strong foundation in statistical modeling, predictive analytics and data 
     <td width="50%" style="padding: 20px; border: 2px solid #2c3e50; border-radius: 15px; text-align: center; vertical-align: middle;">
       <a href="https://academic.oup.com/eurheartj/article/44/Supplement_1/ehac779.129/7000452?login=false" target="_blank">
         <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/ehj.png" alt="Cardiovascular Risk Scores Project" style="
-          width: 80%; 
-          height: 180px; 
-          object-fit: contain; 
+          width: 100%;
+          height: 200px; 
+          object-fit: cover; 
           display: block;
           margin: 0 auto;
         ">
@@ -46,6 +46,7 @@ With a strong foundation in statistical modeling, predictive analytics and data 
     </td>
   </tr>
 </table>
+
 
 ## 🚀 **Featured Projects**  
 
