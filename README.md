@@ -5,12 +5,12 @@ With a strong foundation in statistical modeling, predictive analytics and data 
 
 ## 📄 Published Papers & Reports  
 
-<div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap; align-items: center; text-align: center;">
+<div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; align-items: center; text-align: center;">
 
   <!-- OHDSI Paper -->
-  <div style="width: 300px;">
+  <div style="width: 250px;">
     <a href="https://www.ohdsi.org/2024showcase-122/" target="_blank">
-      <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/ohdsi.webp" style="width: 100px; height: 100px; object-fit: contain;" alt="OHDSI Research Showcase">
+      <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/ohdsi.webp" style="width: 120px; height: auto; display: block; margin: auto;" alt="OHDSI Research Showcase">
     </a>
     <h3 style="font-size: 16px; margin-top: 10px;">
       <a href="https://www.ohdsi.org/2024showcase-122/" target="_blank">Advancing the OHDSI Analysis Viewer</a>
@@ -19,9 +19,9 @@ With a strong foundation in statistical modeling, predictive analytics and data 
   </div>
 
   <!-- EHJ Paper -->
-  <div style="width: 300px;">
+  <div style="width: 250px;">
     <a href="https://academic.oup.com/eurheartj/article/44/Supplement_1/ehac779.129/7000452?login=false" target="_blank">
-      <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/ehj.png" style="width: 100px; height: 100px; object-fit: contain;" alt="European Heart Journal">
+      <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/ehj.png" style="width: 120px; height: auto; display: block; margin: auto;" alt="European Heart Journal">
     </a>
     <h3 style="font-size: 16px; margin-top: 10px;">
       <a href="https://academic.oup.com/eurheartj/article/44/Supplement_1/ehac779.129/7000452?login=false" target="_blank">Evaluation of Cardiovascular Risk Scores</a>
