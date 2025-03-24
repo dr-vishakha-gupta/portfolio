@@ -5,14 +5,14 @@ With a strong foundation in statistical modeling, predictive analytics and data 
 
 ## 📄 Published Papers & Reports  
 
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px;">
-  
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 30px; flex-wrap: wrap;">
+
   <!-- OHDSI Paper -->
-  <div style="flex: 1; min-width: 300px; display: flex; align-items: center; gap: 15px;">
+  <div style="flex: 1; min-width: 450px; max-width: 500px; display: flex; align-items: center; gap: 15px;">
     <a href="https://www.ohdsi.org/2024showcase-122/" target="_blank">
-      <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/ohdsi.webp" width="80" height="50" alt="OHDSI Research Showcase">
+      <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/ohdsi.webp" width="120" alt="OHDSI Research Showcase">
     </a>
-    <div>
+    <div style="max-width: 350px;">
       <h3 style="margin: 0;">
         <a href="https://www.ohdsi.org/2024showcase-122/" target="_blank">Advancing the OHDSI Analysis Viewer</a>
       </h3>
@@ -21,11 +21,11 @@ With a strong foundation in statistical modeling, predictive analytics and data 
   </div>
 
   <!-- EHJ Paper -->
-  <div style="flex: 1; min-width: 300px; display: flex; align-items: center; gap: 15px;">
+  <div style="flex: 1; min-width: 450px; max-width: 500px; display: flex; align-items: center; gap: 15px;">
     <a href="https://academic.oup.com/eurheartj/article/44/Supplement_1/ehac779.129/7000452?login=false" target="_blank">
-      <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/ehj.png" width="80" height="50" alt="European Heart Journal">
+      <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/ehj.png" width="120" alt="European Heart Journal">
     </a>
-    <div>
+    <div style="max-width: 350px;">
       <h3 style="margin: 0;">
         <a href="https://academic.oup.com/eurheartj/article/44/Supplement_1/ehac779.129/7000452?login=false">Evaluation of Cardiovascular Risk Scores</a>
       </h3>
