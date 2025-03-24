@@ -5,29 +5,25 @@ With a strong foundation in statistical modeling, predictive analytics and data 
 
 ## 📄 Published Papers & Reports  
 
-<div align="center">
-  
-  <table width="100%">
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://www.ohdsi.org/2024showcase-122/" target="_blank">
-          <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/ohdsi.webp" width="80%" alt="OHDSI Research Showcase">
-        </a>
-        <h3><a href="https://www.ohdsi.org/2024showcase-122/" target="_blank">Advancing the OHDSI Analysis Viewer</a></h3>
-        <p>Presented at OHDSI 2024, this work focuses on enhancing performance, integration, and user experience.</p>
-      </td>
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://www.ohdsi.org/2024showcase-122/" target="_blank">
+        <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/ohdsi.webp" width="100%" alt="OHDSI Research Showcase">
+      </a>
+      <h3><a href="https://www.ohdsi.org/2024showcase-122/" target="_blank">Advancing the OHDSI Analysis Viewer</a></h3>
+      <p>Presented at OHDSI 2024, this work focuses on enhancing performance, integration, and user experience.</p>
+    </td>
 
-      <td width="50%" align="center">
-        <a href="https://academic.oup.com/eurheartj/article/44/Supplement_1/ehac779.129/7000452?login=false" target="_blank">
-          <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/ehj.png" width="80%" alt="European Heart Journal">
-        </a>
-        <h3><a href="https://academic.oup.com/eurheartj/article/44/Supplement_1/ehac779.129/7000452?login=false">Evaluation of Cardiovascular Risk Scores</a></h3>
-        <p>Published in the <i>European Heart Journal</i>, this study evaluates digital therapeutic interventions for hypertension.</p>
-      </td>
-    </tr>
-  </table>
-
-</div>
+    <td width="50%">
+      <a href="https://academic.oup.com/eurheartj/article/44/Supplement_1/ehac779.129/7000452?login=false" target="_blank">
+        <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/ehj.png" width="100%" alt="European Heart Journal">
+      </a>
+      <h3><a href="https://academic.oup.com/eurheartj/article/44/Supplement_1/ehac779.129/7000452?login=false" target="_blank">Evaluation of Cardiovascular Risk Scores</a></h3>
+      <p>Published in the <i>European Heart Journal</i>, this study evaluates digital therapeutic interventions for hypertension.</p>
+    </td>
+  </tr>
+</table>
 
 ## 🚀 **Featured Projects**  
 
