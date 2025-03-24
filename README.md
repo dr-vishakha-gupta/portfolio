@@ -5,40 +5,37 @@ With a strong foundation in statistical modeling, predictive analytics and data 
 
 ## 📄 Published Papers & Reports  
 
-<div style="max-width: 1000px; margin: auto; padding: 20px; display: flex; flex-direction: column; gap: 40px;">
+<div style="max-width: 1000px; margin: auto; padding: 20px; display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
 
   <!-- OHDSI Project -->
   <div style="
     border: 2px solid #ccc; 
-    padding: 25px; 
+    padding: 20px; 
     border-radius: 12px; 
-    box-shadow: 5px 5px 15px rgba(0,0,0,0.1); 
+    box-shadow: 3px 3px 10px rgba(0,0,0,0.15); 
     background-color: #fff;
+    text-align: center;
   ">
-    <div style="text-align: center;">
-      <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/ohdsi.webp" 
-           style="width: 80%; max-height: 150px; object-fit: contain; border-radius: 8px;">
-    </div>
-    <h3 style="text-align: center; margin-top: 15px; font-size: 18px; font-weight: bold;">Advancing the OHDSI Analysis Viewer</h3>
+    <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/ohdsi.webp" 
+         style="width: 100%; max-height: 150px; object-fit: contain; border-radius: 8px;">
+    <h3 style="margin-top: 15px; font-size: 18px; font-weight: bold;">Advancing the OHDSI Analysis Viewer</h3>
   </div>
 
   <!-- Cardiovascular Risk Scores Project -->
   <div style="
     border: 2px solid #ccc; 
-    padding: 25px; 
+    padding: 20px; 
     border-radius: 12px; 
-    box-shadow: 5px 5px 15px rgba(0,0,0,0.1); 
+    box-shadow: 3px 3px 10px rgba(0,0,0,0.15); 
     background-color: #fff;
+    text-align: center;
   ">
-    <div style="text-align: center;">
-      <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/ehj.png" 
-           style="width: 80%; max-height: 150px; object-fit: contain; border-radius: 8px;">
-    </div>
-    <h3 style="text-align: center; margin-top: 15px; font-size: 18px; font-weight: bold;">Evaluation of Cardiovascular Risk Scores</h3>
+    <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/ehj.png" 
+         style="width: 100%; max-height: 150px; object-fit: contain; border-radius: 8px;">
+    <h3 style="margin-top: 15px; font-size: 18px; font-weight: bold;">Evaluation of Cardiovascular Risk Scores</h3>
   </div>
 
 </div>
-
 
 ## 🚀 **Featured Projects**  
 
