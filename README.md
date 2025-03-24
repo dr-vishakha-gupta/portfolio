@@ -8,37 +8,39 @@ With a strong foundation in statistical modeling, predictive analytics and data 
 <div style="
   display: grid; 
   grid-template-columns: 1fr 1fr; 
-  gap: 20px; 
+  gap: 30px; 
   max-width: 1000px; 
   margin: auto;
   padding: 20px;
-  align-items: center;
+  align-items: start;
 ">
 
   <!-- OHDSI Project -->
   <div style="
-    border: 1px solid #ddd; 
-    padding: 15px; 
+    border: 2px solid #ddd; 
+    padding: 20px; 
     text-align: center; 
     border-radius: 10px; 
-    box-shadow: 2px 2px 10px rgba(0,0,0,0.1); 
-    background-color: white;
+    box-shadow: 4px 4px 15px rgba(0,0,0,0.1); 
+    background-color: #f9f9f9;
   ">
-    <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/ohdsi.webp" style="width: 50%; height: auto; max-height: 150px; object-fit: contain; border-radius: 8px;">
-    <h3 style="margin-top: 10px; font-size: 16px; font-weight: bold;">Advancing the OHDSI Analysis Viewer</h3>
+    <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/ohdsi.webp" 
+         style="width: 80%; height: auto; max-height: 150px; object-fit: contain; border-radius: 8px;">
+    <h3 style="margin-top: 15px; font-size: 18px; font-weight: bold;">Advancing the OHDSI Analysis Viewer</h3>
   </div>
 
   <!-- Cardiovascular Risk Scores Project -->
   <div style="
-    border: 1px solid #ddd; 
-    padding: 15px; 
+    border: 2px solid #ddd; 
+    padding: 20px; 
     text-align: center; 
     border-radius: 10px; 
-    box-shadow: 2px 2px 10px rgba(0,0,0,0.1); 
-    background-color: white;
+    box-shadow: 4px 4px 15px rgba(0,0,0,0.1); 
+    background-color: #f9f9f9;
   ">
-    <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/ehj.png" style="width: 50%; height: auto; max-height: 150px; object-fit: contain; border-radius: 8px;">
-    <h3 style="margin-top: 10px; font-size: 16px; font-weight: bold;">Evaluation of Cardiovascular Risk Scores</h3>
+    <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/ehj.png" 
+         style="width: 80%; height: auto; max-height: 150px; object-fit: contain; border-radius: 8px;">
+    <h3 style="margin-top: 15px; font-size: 18px; font-weight: bold;">Evaluation of Cardiovascular Risk Scores</h3>
   </div>
 
 </div>
