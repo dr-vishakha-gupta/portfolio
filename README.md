@@ -1,3 +1,20 @@
+body {
+    background-color: #2c3e50;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 50px;
+}
+.container {
+    max-width: 800px;
+    margin: auto;
+    background: rgba(255, 255, 255, 0.1);
+    padding: 20px;
+    border-radius: 10px;
+}
+h1 {
+    color: #3498db;
+}
 ## 👩‍💻 About Me   
 I am Dr. Vishakha Gupta, a Senior Analyst with expertise in data science, machine learning, NLP and business intelligence. I specialize in leveraging data-driven insights to drive strategic decision-making and optimize business outcomes. My work focuses on bridging technology, advanced analytics and business strategy to deliver impactful solutions across various industries. 
 
