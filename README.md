@@ -3,23 +3,29 @@ I am Dr. Vishakha Gupta, a Senior Analyst with expertise in data science, machin
 
 With a strong foundation in statistical modeling, predictive analytics and data visualization, I transform complex data into meaningful insights that inform business growth, operational efficiency and customer engagement.
 
-## Published Papers & Reports  
+## Published Papers & Reports
 
-Here are some of my published works in healthcare analytics and digital health:  
+Here are some of my published works in healthcare analytics and digital health:
 
-<a href="https://www.ohdsi.org/2024showcase-122/" target="_blank">
-  <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/ohdsi.webp" alt="OHDSI Research Showcase">
-</a>  
-**Advancing the OHDSI Analysis Viewer: Enhanced Performance, Integration, and User Experience**  
-Presented at OHDSI 2024, this work focuses on improving the OHDSI Analysis Viewer by enhancing performance, integration, and user experience.  
+<div style="display: flex; justify-content: space-between;">
 
-<br>  
+  <div style="flex: 1; margin-right: 10px;">
+    <a href="https://www.ohdsi.org/2024showcase-122/" target="_blank">
+      <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/ohdsi.webp" alt="OHDSI Research Showcase">
+    </a>
+    <p><strong>Advancing the OHDSI Analysis Viewer: Enhanced Performance, Integration, and User Experience</strong></p>
+    <p>Presented at OHDSI 2024, this work focuses on improving the OHDSI Analysis Viewer by enhancing performance, integration, and user experience.</p>
+  </div>
 
-<a href="https://academic.oup.com/eurheartj/article/44/Supplement_1/ehac779.129/7000452?login=false" target="_blank">
-  <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/ehj.png" alt="European Heart Journal">
-</a>  
-**Evaluation of Cardiovascular Risk Scores After Implementation of Digital Therapeutic Intervention in Patients with Uncontrolled Primary Hypertension**  
-Published in the *European Heart Journal*, this study evaluates the impact of digital therapeutic interventions on cardiovascular risk scores in hypertensive patients.  
+  <div style="flex: 1; margin-left: 10px;">
+    <a href="https://academic.oup.com/eurheartj/article/44/Supplement_1/ehac779.129/7000452?login=false" target="_blank">
+      <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/ehj.png" alt="European Heart Journal">
+    </a>
+    <p><strong>Evaluation of Cardiovascular Risk Scores After Implementation of Digital Therapeutic Intervention in Patients with Uncontrolled Primary Hypertension</strong></p>
+    <p>Published in the <em>European Heart Journal</em>, this study evaluates the impact of digital therapeutic interventions on cardiovascular risk scores in hypertensive patients.</p>
+  </div>
+
+</div>
 
 ## 🚀 **Featured Projects**  
 
