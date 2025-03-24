@@ -5,10 +5,10 @@ With a strong foundation in statistical modeling, predictive analytics and data 
 
 ## 📄 Published Papers & Reports  
 
-<div style="display: flex; justify-content: center; gap: 20px; align-items: stretch; flex-wrap: wrap;">
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; align-items: start; width: 100%; max-width: 900px; margin: auto;">
 
   <!-- OHDSI Paper -->
-  <div style="border: 1px solid #ddd; padding: 15px; width: 300px; text-align: left; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); background-color: white;">
+  <div style="border: 1px solid #ddd; padding: 15px; text-align: center; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); background-color: white;">
     <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/ohdsi.webp" width="100%" style="border-radius: 8px;">
     <h3 style="margin-top: 10px; font-size: 16px; font-weight: bold;">
       <a href="https://www.ohdsi.org/2024showcase-122/" target="_blank" style="text-decoration: none; color: black;">Advancing the OHDSI Analysis Viewer</a>
@@ -16,7 +16,7 @@ With a strong foundation in statistical modeling, predictive analytics and data 
   </div>
 
   <!-- EHJ Paper -->
-  <div style="border: 1px solid #ddd; padding: 15px; width: 300px; text-align: left; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); background-color: white;">
+  <div style="border: 1px solid #ddd; padding: 15px; text-align: center; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); background-color: white;">
     <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/ehj.png" width="100%" style="border-radius: 8px;">
     <h3 style="margin-top: 10px; font-size: 16px; font-weight: bold;">
       <a href="https://academic.oup.com/eurheartj/article/44/Supplement_1/ehac779.129/7000452?login=false" target="_blank" style="text-decoration: none; color: black;">Evaluation of Cardiovascular Risk Scores</a>
