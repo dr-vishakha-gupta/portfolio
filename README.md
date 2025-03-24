@@ -27,7 +27,7 @@ With a strong foundation in statistical modeling, predictive analytics and data 
         </a>
       </h3>
       <p style="color: #34495e; font-size: 14px;">
-        Leveraging data visualization, NLP, and user research to enhance analytical capabilities in observational health research
+        Leveraged data visualization, NLP, and user research to enhance analytical capabilities in observational health research
       </p>
     </td>
     <td width="50%" style="padding: 20px; border: 2px solid #2c3e50; border-radius: 15px; text-align: center; vertical-align: top;">
@@ -51,7 +51,7 @@ With a strong foundation in statistical modeling, predictive analytics and data 
         </a>
       </h3>
       <p style="color: #34495e; font-size: 14px;">
-        Applying statistical modeling and digital health analytics to assess cardiovascular risk in patients with hypertension
+        Applied statistical modeling and digital health analytics to assess cardiovascular risk in patients with hypertension
       </p>
     </td>
   </tr>
