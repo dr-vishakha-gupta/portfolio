@@ -23,7 +23,7 @@ With a strong foundation in statistical modeling, predictive analytics and data 
         font-weight: bold;
       ">
         <a href="https://www.ohdsi.org/2024showcase-122/" target="_blank" style="text-decoration: none; color: #2c3e50;">
-          Advancing the OHDSI Analysis Viewer
+          Advancing the OHDSI Analysis Viewer: Enhanced Performance, Integration, and User Experience
         </a>
       </h3>
       <p style="color: #34495e; font-size: 14px;">
