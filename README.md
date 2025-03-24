@@ -5,27 +5,30 @@ With a strong foundation in statistical modeling, predictive analytics and data 
 
 ## 📄 Published Papers & Reports  
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 30px; justify-items: center;">
+## 📄 Published Papers & Reports  
 
-  <div style="border: 1px solid #ddd; padding: 15px; border-radius: 10px; text-align: center;">
+<div style="display: flex; align-items: center; justify-content: center; gap: 50px; border-bottom: 2px solid #ddd; padding-bottom: 20px;">
+
+  <div style="text-align: center;">
     <a href="https://www.ohdsi.org/2024showcase-122/" target="_blank">
-      <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/ohdsi.webp" width="180" alt="OHDSI Research Showcase">
+      <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/ohdsi.webp" width="200" alt="OHDSI Research Showcase">
     </a>
-    <h3>
-      <a href="https://www.ohdsi.org/2024showcase-122/" target="_blank">Advancing the OHDSI Analysis Viewer</a>
+    <h3 style="margin-top: 10px;">
+      <a href="https://www.ohdsi.org/2024showcase-122/" target="_blank" style="color: #0073e6;">Advancing the OHDSI Analysis Viewer</a>
     </h3>
   </div>
 
-  <div style="border: 1px solid #ddd; padding: 15px; border-radius: 10px; text-align: center;">
+  <div style="text-align: center;">
     <a href="https://academic.oup.com/eurheartj/article/44/Supplement_1/ehac779.129/7000452?login=false" target="_blank">
-      <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/ehj.png" width="180" alt="European Heart Journal">
+      <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/ehj.png" width="200" alt="European Heart Journal">
     </a>
-    <h3>
-      <a href="https://academic.oup.com/eurheartj/article/44/Supplement_1/ehac779.129/7000452?login=false">Evaluation of Cardiovascular Risk Scores</a>
+    <h3 style="margin-top: 10px;">
+      <a href="https://academic.oup.com/eurheartj/article/44/Supplement_1/ehac779.129/7000452?login=false" target="_blank" style="color: #0073e6;">Evaluation of Cardiovascular Risk Scores</a>
     </h3>
   </div>
 
 </div>
+
 
 ## 🚀 **Featured Projects**  
 
