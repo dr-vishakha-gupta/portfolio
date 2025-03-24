@@ -6,22 +6,17 @@ With a strong foundation in statistical modeling, predictive analytics and data 
 ## 📄 Published Papers & Reports
 <table>
   <tr>
-    <td width="50%" style="padding: 20px; border: 2px solid #2c3e50; border-radius: 15px; text-align: center; vertical-align: top;">
+    <td width="50%" style="padding: 20px; border: 2px solid #2c3e50; border-radius: 15px; text-align: center; vertical-align: middle;">
       <a href="https://www.ohdsi.org/2024showcase-122/" target="_blank">
         <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/ohdsi.webp" alt="OHDSI Project" style="
           width: 80%; 
-          max-height: 200px; 
+          height: 180px; 
           object-fit: contain; 
           display: block;
-          margin: 0 auto 15px auto;
+          margin: 0 auto;
         ">
       </a>
-      <h3 style="
-        color: #2c3e50; 
-        margin-top: 10px; 
-        font-size: 18px; 
-        font-weight: bold;
-      ">
+      <h3 style="margin-top: 10px;">
         <a href="https://www.ohdsi.org/2024showcase-122/" target="_blank" style="text-decoration: none; color: #2c3e50;">
           Advancing the OHDSI Analysis Viewer
         </a>
@@ -30,22 +25,17 @@ With a strong foundation in statistical modeling, predictive analytics and data 
         Research project focused on enhancing data analysis capabilities in observational health research.
       </p>
     </td>
-    <td width="50%" style="padding: 20px; border: 2px solid #2c3e50; border-radius: 15px; text-align: center; vertical-align: top;">
+    <td width="50%" style="padding: 20px; border: 2px solid #2c3e50; border-radius: 15px; text-align: center; vertical-align: middle;">
       <a href="https://academic.oup.com/eurheartj/article/44/Supplement_1/ehac779.129/7000452?login=false" target="_blank">
         <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/ehj.png" alt="Cardiovascular Risk Scores Project" style="
           width: 80%; 
-          max-height: 200px; 
+          height: 180px; 
           object-fit: contain; 
           display: block;
-          margin: 0 auto 15px auto;
+          margin: 0 auto;
         ">
       </a>
-      <h3 style="
-        color: #2c3e50; 
-        margin-top: 10px; 
-        font-size: 18px; 
-        font-weight: bold;
-      ">
+      <h3 style="margin-top: 10px;">
         <a href="https://academic.oup.com/eurheartj/article/44/Supplement_1/ehac779.129/7000452?login=false" target="_blank" style="text-decoration: none; color: #2c3e50;">
           Evaluation of Cardiovascular Risk Scores
         </a>
