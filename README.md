@@ -3,49 +3,66 @@ I am Dr. Vishakha Gupta, a Senior Analyst with expertise in data science, machin
 
 With a strong foundation in statistical modeling, predictive analytics and data visualization, I transform complex data into meaningful insights that inform business growth, operational efficiency and customer engagement.
 
-## 📄 Published Papers & Reports
-<table>
-  <tr>
-    <td width="50%" style="padding: 20px; border: 2px solid #2c3e50; border-radius: 15px; text-align: center; vertical-align: middle;">
-      <a href="https://www.ohdsi.org/2024showcase-122/" target="_blank">
-        <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/ohdsi.webp" alt="OHDSI Project" style="
-          width: 100%;
-          height: 200px; 
-          object-fit: cover; 
-          display: block;
-          margin: 0 auto;
-        ">
-      </a>
-      <h3 style="margin-top: 10px;">
-        <a href="https://www.ohdsi.org/2024showcase-122/" target="_blank" style="text-decoration: none; color: #2c3e50;">
-          Advancing the OHDSI Analysis Viewer
-        </a>
-      </h3>
-      <p style="color: #34495e; font-size: 14px;">
-        Research project focused on enhancing data analysis capabilities in observational health research.
-      </p>
-    </td>
-    <td width="50%" style="padding: 20px; border: 2px solid #2c3e50; border-radius: 15px; text-align: center; vertical-align: middle;">
-      <a href="https://academic.oup.com/eurheartj/article/44/Supplement_1/ehac779.129/7000452?login=false" target="_blank">
-        <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/ehj.png" alt="Cardiovascular Risk Scores Project" style="
-          width: 100%;
-          height: 200px; 
-          object-fit: cover; 
-          display: block;
-          margin: 0 auto;
-        ">
-      </a>
-      <h3 style="margin-top: 10px;">
-        <a href="https://academic.oup.com/eurheartj/article/44/Supplement_1/ehac779.129/7000452?login=false" target="_blank" style="text-decoration: none; color: #2c3e50;">
-          Evaluation of Cardiovascular Risk Scores
-        </a>
-      </h3>
-      <p style="color: #34495e; font-size: 14px;">
-        Comprehensive analysis of cardiovascular risk assessment methodologies and their clinical implications.
-      </p>
-    </td>
-  </tr>
-</table>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Published Papers & Reports</title>
+    <style>
+        .container {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+        }
+        .card {
+            width: 50%;
+            text-align: center;
+            border: 1px solid #ddd;
+            padding: 20px;
+            box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+        }
+        .card img {
+            max-width: 100%;
+            height: 200px; /* Set a fixed height */
+            object-fit: contain; /* Ensure images maintain aspect ratio */
+        }
+        .card a {
+            display: block;
+            font-size: 18px;
+            font-weight: bold;
+            color: #0073e6;
+            text-decoration: none;
+            margin-top: 10px;
+        }
+        .card a:hover {
+            text-decoration: underline;
+        }
+        p {
+            font-size: 14px;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>Published Papers & Reports</h2>
+    <div class="container">
+        <div class="card">
+            <img src="ohdsi_logo.png" alt="OHDSI">
+            <a href="https://www.ohdsi.org/2024showcase-122/">Advancing the OHDSI Analysis Viewer</a>
+            <p>Research project focused on enhancing data analysis capabilities in observational health research.</p>
+        </div>
+        
+        <div class="card">
+            <img src="european_heart_journal.png" alt="European Heart Journal">
+            <a href="https://academic.oup.com/eurheartj/article/44/Supplement_1/ehac779.129/7000452?login=false">Evaluation of Cardiovascular Risk Scores</a>
+            <p>Comprehensive analysis of cardiovascular risk assessment methodologies and their clinical implications.</p>
+        </div>
+    </div>
+
+</body>
+</html>
 
 
 ## 🚀 **Featured Projects**  
