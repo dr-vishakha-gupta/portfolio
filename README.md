@@ -5,37 +5,40 @@ With a strong foundation in statistical modeling, predictive analytics and data 
 
 ## 📄 Published Papers & Reports  
 
-<div style="max-width: 1000px; margin: auto; padding: 20px; display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+<div style="display: flex; gap: 20px; justify-content: center; padding: 20px;">
 
-  <!-- OHDSI Project -->
+  <!-- OHDSI Project Box -->
   <div style="
-    border: 4px solid black; 
+    border: 5px solid black; 
     padding: 20px; 
     border-radius: 12px; 
-    box-shadow: 5px 5px 15px rgba(0,0,0,0.2); 
-    background-color: #f9f9f9;
+    background-color: white;
+    width: 45%;
     text-align: center;
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.3);
   ">
     <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/ohdsi.webp" 
-         style="width: 90%; max-height: 150px; object-fit: contain; border-radius: 8px;">
+         style="width: 100%; max-height: 150px; object-fit: contain;">
     <h3 style="margin-top: 15px; font-size: 18px; font-weight: bold;">Advancing the OHDSI Analysis Viewer</h3>
   </div>
 
-  <!-- Cardiovascular Risk Scores Project -->
+  <!-- Cardiovascular Risk Scores Project Box -->
   <div style="
-    border: 4px solid black; 
+    border: 5px solid black; 
     padding: 20px; 
     border-radius: 12px; 
-    box-shadow: 5px 5px 15px rgba(0,0,0,0.2); 
-    background-color: #f9f9f9;
+    background-color: white;
+    width: 45%;
     text-align: center;
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.3);
   ">
     <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/ehj.png" 
-         style="width: 90%; max-height: 150px; object-fit: contain; border-radius: 8px;">
+         style="width: 100%; max-height: 150px; object-fit: contain;">
     <h3 style="margin-top: 15px; font-size: 18px; font-weight: bold;">Evaluation of Cardiovascular Risk Scores</h3>
   </div>
 
 </div>
+
 
 
 ## 🚀 **Featured Projects**  
