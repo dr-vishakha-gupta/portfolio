@@ -59,8 +59,6 @@ With a strong foundation in statistical modeling, predictive analytics and data 
 
 ## 🚀 **Featured Projects**  
 
-## 🚀 **Featured Projects**  
-
 <table>
   <tr>
     <td width="33%">
