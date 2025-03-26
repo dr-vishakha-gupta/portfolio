@@ -56,7 +56,7 @@ With a strong foundation in statistical modeling, predictive analytics and data 
     </td>
     <td width="33%" style="padding: 20px; border: 2px solid #2c3e50; border-radius: 15px; text-align: center; vertical-align: top;">
       <a href="https://github.com/dr-vishakha-gupta/portfolio/blob/main/Champions" target="_blank">
-        <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/Champions.jpg" alt="Champions Project" style="
+        <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/Champion.jpg" alt="Champions Project" style="
           width: 80%; 
           max-height: 150px; 
           object-fit: contain; 
