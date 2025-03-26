@@ -22,7 +22,7 @@ With a strong foundation in statistical modeling, predictive analytics and data 
         font-size: 18px; 
         font-weight: bold;
       ">
-        <a href="https://github.com/dr-vishakha-gupta/portfolio/blob/main/Clarks/README.md" target="_blank" style="text-decoration: none; color: #2c3e50;">
+        <a href="https://github.com/dr-vishakha-gupta/portfolio/blob/main/Clarks" target="_blank" style="text-decoration: none; color: #2c3e50;">
           Marketing & Customer Insights at Clarks
         </a>
       </h3>
@@ -46,7 +46,7 @@ With a strong foundation in statistical modeling, predictive analytics and data 
         font-size: 18px; 
         font-weight: bold;
       ">
-        <a href="https://github.com/dr-vishakha-gupta/portfolio/blob/main/Ekimetrics/README.md" target="_blank" style="text-decoration: none; color: #2c3e50;">
+        <a href="https://github.com/dr-vishakha-gupta/portfolio/blob/main/Ekimetrics" target="_blank" style="text-decoration: none; color: #2c3e50;">
           Marketing Mix Modeling with Ekimetrics
         </a>
       </h3>
