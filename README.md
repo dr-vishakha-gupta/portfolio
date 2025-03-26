@@ -3,6 +3,60 @@ I am Dr. Vishakha Gupta, a Senior Analyst with expertise in data science, machin
 
 With a strong foundation in statistical modeling, predictive analytics and data visualization, I transform complex data into meaningful insights that inform business growth, operational efficiency and customer engagement.
 
+## 🚀 Industry Collaborations & Consulting Projects
+<table>
+  <tr>
+    <td width="50%" style="padding: 20px; border: 2px solid #2c3e50; border-radius: 15px; text-align: center; vertical-align: top;">
+      <a href="#" target="_blank">
+        <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/clarks_logo.png" alt="Clarks Project" style="
+          width: 80%; 
+          max-height: 150px; 
+          object-fit: contain; 
+          display: block;
+          margin: 0 auto 15px auto;
+        ">
+      </a>
+      <h3 style="
+        color: #2c3e50; 
+        margin-top: 10px; 
+        font-size: 18px; 
+        font-weight: bold;
+      ">
+        <a href="#" target="_blank" style="text-decoration: none; color: #2c3e50;">
+          Marketing & Customer Insights at Clarks
+        </a>
+      </h3>
+      <p style="color: #34495e; font-size: 14px;">
+        Developed data-driven strategies to optimize customer engagement and marketing effectiveness.
+      </p>
+    </td>
+    <td width="50%" style="padding: 20px; border: 2px solid #2c3e50; border-radius: 15px; text-align: center; vertical-align: top;">
+      <a href="#" target="_blank">
+        <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/ekimetrics_logo.png" alt="Ekimetrics Project" style="
+          width: 80%; 
+          max-height: 150px; 
+          object-fit: contain; 
+          display: block;
+          margin: 0 auto 15px auto;
+        ">
+      </a>
+      <h3 style="
+        color: #2c3e50; 
+        margin-top: 10px; 
+        font-size: 18px; 
+        font-weight: bold;
+      ">
+        <a href="#" target="_blank" style="text-decoration: none; color: #2c3e50;">
+          Marketing Mix Modeling with Ekimetrics
+        </a>
+      </h3>
+      <p style="color: #34495e; font-size: 14px;">
+        Analyzed multi-channel marketing data to optimize budget allocation and improve ROI.
+      </p>
+    </td>
+  </tr>
+</table>
+
 ## 📄 Published Papers & Reports
 <table>
   <tr>
