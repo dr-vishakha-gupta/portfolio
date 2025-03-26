@@ -7,7 +7,7 @@ With a strong foundation in statistical modeling, predictive analytics and data 
 <table>
   <tr>
     <td width="50%" style="padding: 20px; border: 2px solid #2c3e50; border-radius: 15px; text-align: center; vertical-align: top;">
-      <a href="https://github.com/dr-vishakha-gupta/portfolio/blob/main/Clarks/README.md" target="_blank">
+      <a href="https://github.com/dr-vishakha-gupta/portfolio/blob/main/Clarks" target="_blank">
         <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/Clarks.jpg" alt="Clarks Project" style="
           width: 80%; 
           max-height: 150px; 
@@ -31,7 +31,7 @@ With a strong foundation in statistical modeling, predictive analytics and data 
       </p>
     </td>
     <td width="50%" style="padding: 20px; border: 2px solid #2c3e50; border-radius: 15px; text-align: center; vertical-align: top;">
-      <a href="https://github.com/dr-vishakha-gupta/portfolio/blob/main/Ekimetrics/README.md" target="_blank">
+      <a href="https://github.com/dr-vishakha-gupta/portfolio/blob/main/Ekimetrics" target="_blank">
         <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/Ekimetrics.jpg" alt="Ekimetrics Project" style="
           width: 80%; 
           max-height: 150px; 
