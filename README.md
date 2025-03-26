@@ -3,6 +3,7 @@ I am Dr. Vishakha Gupta, a Senior Analyst with expertise in data science, machin
 
 With a strong foundation in statistical modeling, predictive analytics and data visualization, I transform complex data into meaningful insights that inform business growth, operational efficiency and customer engagement.
 
+
 ## 🚀 Industry Collaborations & Consulting Projects
 <table>
   <tr>
@@ -81,6 +82,7 @@ With a strong foundation in statistical modeling, predictive analytics and data 
   </tr>
 </table>
 
+
 ## 📄 Published Papers & Reports
 <table>
   <tr>
@@ -134,6 +136,7 @@ With a strong foundation in statistical modeling, predictive analytics and data 
     </td>
   </tr>
 </table>
+
 
 ## 🚀 **Featured Projects**  
 
