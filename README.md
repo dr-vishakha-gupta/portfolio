@@ -28,7 +28,7 @@ With a strong foundation in statistical modeling, predictive analytics and data 
         </a>
       </h3>
       <p style="color: #34495e; font-size: 14px;">
-        Developed data-driven strategies to optimize customer engagement and marketing effectiveness.
+        Utilized predictive analytics to optimize inventory management and provide actionable business recommendations
       </p>
     </td>
     <td width="33%" style="padding: 20px; border: 2px solid #2c3e50; border-radius: 15px; text-align: center; vertical-align: top;">
