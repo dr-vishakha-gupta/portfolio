@@ -23,7 +23,7 @@ With a strong foundation in statistical modeling, predictive analytics and data 
         font-weight: bold;
       ">
         <a href="https://github.com/dr-vishakha-gupta/portfolio/blob/main/Clarks" target="_blank" style="text-decoration: none; color: #2c3e50;">
-          Business Insights and Optimization with Predictive Analytics at Clarks
+          Optimizing Inventory with Predictive Analytics at Clarks
         </a>
       </h3>
       <p style="color: #34495e; font-size: 14px;">
