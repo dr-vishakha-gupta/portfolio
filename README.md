@@ -6,7 +6,7 @@ With a strong foundation in statistical modeling, predictive analytics and data 
 ## 🚀 Industry Collaborations & Consulting Projects
 <table>
   <tr>
-    <td width="50%" style="padding: 20px; border: 2px solid #2c3e50; border-radius: 15px; text-align: center; vertical-align: top;">
+    <td width="33%" style="padding: 20px; border: 2px solid #2c3e50; border-radius: 15px; text-align: center; vertical-align: top;">
       <a href="https://github.com/dr-vishakha-gupta/portfolio/blob/main/Clarks" target="_blank">
         <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/Clarks.webp" alt="Clarks Project" style="
           width: 80%; 
@@ -30,7 +30,7 @@ With a strong foundation in statistical modeling, predictive analytics and data 
         Developed data-driven strategies to optimize customer engagement and marketing effectiveness.
       </p>
     </td>
-    <td width="50%" style="padding: 20px; border: 2px solid #2c3e50; border-radius: 15px; text-align: center; vertical-align: top;">
+    <td width="33%" style="padding: 20px; border: 2px solid #2c3e50; border-radius: 15px; text-align: center; vertical-align: top;">
       <a href="https://github.com/dr-vishakha-gupta/portfolio/blob/main/Ekimetrics" target="_blank">
         <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/Ekimetrics.jpg" alt="Ekimetrics Project" style="
           width: 80%; 
@@ -52,6 +52,30 @@ With a strong foundation in statistical modeling, predictive analytics and data 
       </h3>
       <p style="color: #34495e; font-size: 14px;">
         Analyzed multi-channel marketing data to optimize budget allocation and improve ROI.
+      </p>
+    </td>
+    <td width="33%" style="padding: 20px; border: 2px solid #2c3e50; border-radius: 15px; text-align: center; vertical-align: top;">
+      <a href="https://github.com/dr-vishakha-gupta/portfolio/blob/main/Champions" target="_blank">
+        <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/Champions.jpg" alt="Champions Project" style="
+          width: 80%; 
+          max-height: 150px; 
+          object-fit: contain; 
+          display: block;
+          margin: 0 auto 15px auto;
+        ">
+      </a>
+      <h3 style="
+        color: #2c3e50; 
+        margin-top: 10px; 
+        font-size: 18px; 
+        font-weight: bold;
+      ">
+        <a href="https://github.com/dr-vishakha-gupta/portfolio/blob/main/Champions" target="_blank" style="text-decoration: none; color: #2c3e50;">
+          Customer Lifetime Value & Segmentation with Champions
+        </a>
+      </h3>
+      <p style="color: #34495e; font-size: 14px;">
+        Built a CLV model and segmentation analysis to enhance customer retention and value optimization.
       </p>
     </td>
   </tr>
