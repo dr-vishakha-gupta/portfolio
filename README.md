@@ -7,8 +7,8 @@ With a strong foundation in statistical modeling, predictive analytics and data 
 <table>
   <tr>
     <td width="50%" style="padding: 20px; border: 2px solid #2c3e50; border-radius: 15px; text-align: center; vertical-align: top;">
-      <a href="clarks" target="_blank">
-        <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/blob/main/images/Clarks.jpg" alt="Clarks Project" style="
+      <a href="https://github.com/dr-vishakha-gupta/portfolio/blob/main/Clarks/README.md" target="_blank">
+        <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/Clarks.jpg" alt="Clarks Project" style="
           width: 80%; 
           max-height: 150px; 
           object-fit: contain; 
@@ -22,7 +22,7 @@ With a strong foundation in statistical modeling, predictive analytics and data 
         font-size: 18px; 
         font-weight: bold;
       ">
-        <a href="clarks" target="_blank" style="text-decoration: none; color: #2c3e50;">
+        <a href="https://github.com/dr-vishakha-gupta/portfolio/blob/main/Clarks/README.md" target="_blank" style="text-decoration: none; color: #2c3e50;">
           Marketing & Customer Insights at Clarks
         </a>
       </h3>
@@ -31,8 +31,8 @@ With a strong foundation in statistical modeling, predictive analytics and data 
       </p>
     </td>
     <td width="50%" style="padding: 20px; border: 2px solid #2c3e50; border-radius: 15px; text-align: center; vertical-align: top;">
-      <a href="ekimetrics" target="_blank">
-        <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/blob/main/images/Ekimetrics.jpg" alt="Ekimetrics Project" style="
+      <a href="https://github.com/dr-vishakha-gupta/portfolio/blob/main/Ekimetrics/README.md" target="_blank">
+        <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/Ekimetrics.jpg" alt="Ekimetrics Project" style="
           width: 80%; 
           max-height: 150px; 
           object-fit: contain; 
@@ -46,7 +46,7 @@ With a strong foundation in statistical modeling, predictive analytics and data 
         font-size: 18px; 
         font-weight: bold;
       ">
-        <a href="ekimetrics" target="_blank" style="text-decoration: none; color: #2c3e50;">
+        <a href="https://github.com/dr-vishakha-gupta/portfolio/blob/main/Ekimetrics/README.md" target="_blank" style="text-decoration: none; color: #2c3e50;">
           Marketing Mix Modeling with Ekimetrics
         </a>
       </h3>
@@ -56,7 +56,6 @@ With a strong foundation in statistical modeling, predictive analytics and data 
     </td>
   </tr>
 </table>
-
 
 ## 📄 Published Papers & Reports
 <table>
