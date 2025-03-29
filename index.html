@@ -6,256 +6,273 @@
   <title>Dr. Vishakha Gupta - Portfolio</title>
   <style>
     body {
-      font-family: Arial, sans-serif;
+      font-family: 'Arial', sans-serif;
       margin: 0;
       padding: 0;
-      background-color: #f9f9f9;
-      color: #2c3e50;
+      background-color: #f4f4f4;
+      color: #333;
+      line-height: 1.6;
     }
     header {
-      background-color: #34495e;
-      color: white;
-      padding: 20px;
+      background-color: #343a40;
+      color: #fff;
       text-align: center;
+      padding: 2rem 0;
+      margin-bottom: 2rem;
     }
     header h1 {
-      margin: 0;
-      font-size: 2.5em;
+      font-size: 2.5rem;
+      margin-bottom: 0.5rem;
     }
     header p {
-      margin: 5px 0 0;
+      font-size: 1.2rem;
     }
     section {
-      padding: 40px 20px;
+      padding: 2rem 0;
+    }
+    .container {
+      width: 80%;
+      margin: auto;
+      overflow: hidden;
     }
     h2 {
       text-align: center;
-      font-size: 2em;
-      color: #2c3e50;
-      margin-bottom: 30px;
+      font-size: 2rem;
+      margin-bottom: 1.5rem;
+      color: #343a40;
+      border-bottom: 3px solid #343a40;
+      padding-bottom: 0.5rem;
     }
-    .projects-container {
+    /* Projects Section */
+    .projects-grid {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-      gap: 20px;
-      max-width: 1200px;
-      margin: 0 auto;
+      gap: 2rem;
     }
     .project-card {
-      background-color: white;
+      background: #fff;
       border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
       overflow: hidden;
-      box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
-      transition: transform 0.3s ease, box-shadow 0.3s ease;
+      transition: transform 0.3s ease;
     }
     .project-card:hover {
       transform: translateY(-5px);
-      box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.15);
     }
     .project-card img {
       width: 100%;
-      height: auto;
+      height: 200px;
+      object-fit: cover;
     }
-    .project-content {
-      padding: 20px;
+    .project-info {
+      padding: 1rem;
     }
-    .project-content h3 {
-      font-size: 1.25em;
-      color: #34495e;
-      margin-bottom: 10px;
+    .project-info h3 {
+      font-size: 1.5rem;
+      margin-bottom: 0.5rem;
+      color: #343a40;
     }
-    .project-content p {
-      font-size: 1em;
-      color: #7f8c8d;
+    .project-info p {
+      font-size: 1rem;
+      color: #666;
     }
-    .project-content a {
+    .project-info a {
+      display: inline-block;
+      padding: 0.5rem 1rem;
+      background-color: #007bff;
+      color: #fff;
       text-decoration: none;
-      color: #2980b9;
-      font-weight: bold;
+      border-radius: 5px;
+      margin-top: 1rem;
     }
+    /* Footer */
     footer {
-      background-color: #34495e;
-      color: white;
       text-align: center;
-      padding: 10px 0;
+      padding: 1rem 0;
+      background-color: #343a40;
+      color: #fff;
+      margin-top: 2rem;
     }
+    /* Media Queries for Responsiveness */
     @media (max-width: 768px) {
-        section {
-          padding-left:auto;}
-        }
-
-</style>
+      .container {
+        width: 95%;
+      }
+      .projects-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
 </head>
 <body>
-
-<header>
-<h1>Dr. Vishakha Gupta</h1>
-  <p>Senior Analyst | Data Science | Machine Learning | NLP</p>
-</header>
-
-<section id="about-me">
-  <h2>👩‍💻 About Me</h2>
-  <p>I am Dr. Vishakha Gupta, a Senior Analyst with expertise in data science, machine learning, NLP, and business intelligence. I specialize in leveraging data-driven insights to drive strategic decision-making and optimize business outcomes.</p>
-  <p>With a strong foundation in statistical modeling, predictive analytics, and data visualization, I transform complex data into meaningful insights that inform business growth, operational efficiency, and customer engagement.</p>
-</section>
-
-<section id="industry-collaborations">
-  <h2>🚀 Industry Collaborations & Consulting Projects</h2>
-  <div class="card-container">
-    <!-- Clarks Project -->
-    <div class="card">
-      <a href="https://github.com/dr-vishakha-gupta/portfolio/blob/main/Clarks" target="_blank">
-        <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/Clarks.webp" alt="Clarks Project">
-        <h3>Optimizing Inventory with Predictive Analytics at Clarks</h3>
-        <p>Utilized predictive analytics to optimize inventory management and provide actionable business recommendations.</p>
-      </a>
+  <header>
+    <div class="container">
+      <h1>Dr. Vishakha Gupta</h1>
+      <p>Senior Analyst | Data Science | Machine Learning | NLP</p>
     </div>
-
-    <!-- Ekimetrics Project -->
-    <div class="card">
-      <a href="https://github.com/dr-vishakha-gupta/portfolio/blob/main/Ekimetrics" target="_blank">
-        <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/Ekimetrics.jpg" alt="Ekimetrics Project">
-        <h3>Marketing Mix Modeling with Ekimetrics</h3>
-        <p>Analyzed multi-channel marketing data to optimize budget allocation and improve ROI.</p>
-      </a>
+  </header>
+  <section id="about">
+    <div class="container">
+      <h2>About Me</h2>
+      <p>I am Dr. Vishakha Gupta, a Senior Analyst with expertise in data science, machine learning, NLP, and business intelligence. I specialize in leveraging data-driven insights to drive strategic decision-making and optimize business outcomes. My work focuses on bridging technology, advanced analytics, and business strategy to deliver impactful solutions across various industries.</p>
+      <p>With a strong foundation in statistical modeling, predictive analytics, and data visualization, I transform complex data into meaningful insights that inform business growth, operational efficiency, and customer engagement.</p>
     </div>
-
-    <!-- Champions Project -->
-    <div class="card">
-      <a href="https://github.com/dr-vishakha-gupta/portfolio/blob/main/Champions" target="_blank">
-        <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/Champions.jpg" alt="Champions Project">
-        <h3>Customer Lifetime Value & Segmentation with Champions</h3>
-        <p>Built a CLV model and segmentation analysis to enhance customer retention and value optimization.</p>
-      </a>
+  </section>
+  <section id="projects">
+    <div class="container">
+      <h2>Industry Collaborations & Consulting Projects</h2>
+      <div class="projects-grid">
+        <div class="project-card">
+          <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/Clarks.webp?raw=true" alt="Clarks Project">
+          <div class="project-info">
+            <h3>Optimizing Inventory with Predictive Analytics at Clarks</h3>
+            <p>Utilized predictive analytics to optimize inventory management and provide actionable business recommendations.</p>
+            <a href="https://github.com/dr-vishakha-gupta/portfolio/blob/main/Clarks" target="_blank">View Project</a>
+          </div>
+        </div>
+        <div class="project-card">
+          <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/Ekimetrics.jpg?raw=true" alt="Ekimetrics Project">
+          <div class="project-info">
+            <h3>Marketing Mix Modeling with Ekimetrics</h3>
+            <p>Analyzed multi-channel marketing data to optimize budget allocation and improve ROI.</p>
+            <a href="https://github.com/dr-vishakha-gupta/portfolio/blob/main/Ekimetrics" target="_blank">View Project</a>
+          </div>
+        </div>
+        <div class="project-card">
+          <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/Champions.jpg?raw=true" alt="Champions Project">
+          <div class="project-info">
+            <h3>Customer Lifetime Value & Segmentation with Champions</h3>
+            <p>Built a CLV model and segmentation analysis to enhance customer retention and value optimization.</p>
+            <a href="https://github.com/dr-vishakha-gupta/portfolio/blob/main/Champions" target="_blank">View Project</a>
+          </div>
+        </div>
+      </div>
     </div>
-  </div>
-</section>
-
-<section id="published-papers">
-  <h2>📄 Published Papers & Reports</h2>
-  <div class="card-container">
-    <!-- OHDSI Analysis Viewer -->
-    <div class="card">
-      <a href="https://www.ohdsi.org/2024showcase-122/" target="_blank">
-        <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/ohdsi.webp" alt="OHDSI Project">
-        <h3>Advancing the OHDSI Analysis Viewer</h3>
-        <p>Enhanced analytical capabilities in observational health research using data visualization and NLP.</p>
-      </a>
+  </section>
+    <section id="projects">
+    <div class="container">
+      <h2>Published Papers & Reports</h2>
+      <div class="projects-grid">
+        <div class="project-card">
+          <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/ohdsi.webp?raw=true" alt="OHDSI Project">
+          <div class="project-info">
+            <h3>Advancing the OHDSI Analysis Viewer</h3>
+            <p>Enhanced analytical capabilities in observational health research using data visualization and NLP.</p>
+            <a href="https://www.ohdsi.org/2024showcase-122/" target="_blank">View Project</a>
+          </div>
+        </div>
+        <div class="project-card">
+          <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/ehj.png?raw=true" alt="Cardiovascular Risk Scores Project">
+          <div class="project-info">
+            <h3>Evaluation of Cardiovascular Risk Scores</h3>
+            <p>Applied statistical modeling to assess cardiovascular risk in patients with hypertension.</p>
+            <a href="https://academic.oup.com/eurheartj/article/44/Supplement_1/ehac779.129/7000452?login=false" target="_blank">View Project</a>
+          </div>
+        </div>
+      </div>
     </div>
-
-    <!-- Cardiovascular Risk Scores -->
-    <div class="card">
-      <a href="https://academic.oup.com/eurheartj/article/44/Supplement_1/ehac779.129/7000452?login=false" target="_blank">
-        <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/ehj.png" alt="Cardiovascular Risk Scores Project">
-        <h3>Evaluation of Cardiovascular Risk Scores</h3>
-        <p>Applied statistical modeling to assess cardiovascular risk in patients with hypertension.</p>
-      </a>
+  </section>
+  <section id="projects">
+    <div class="container">
+      <h2>Featured Projects</h2>
+      <div class="projects-grid">
+        <div class="project-card">
+          <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/AB-Testing.png?raw=true" alt="A/B Testing Project">
+          <div class="project-info">
+            <h3>A/B Testing for Ad Performance</h3>
+            <p>Optimized ad placement & analyzed conversion rates using statistical tests.</p>
+            <a href="https://github.com/dr-vishakha-gupta/portfolio/tree/main/AB_Testing_Ad_Optimization" target="_blank">View Project</a>
+          </div>
+        </div>
+        <div class="project-card">
+          <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/Bike_Ride.png?raw=true" alt="Bike Sharing Project">
+          <div class="project-info">
+            <h3>Time Series Forecasting for Bike-Sharing Demand</h3>
+            <p>Explored bike-sharing trends & built predictive models.</p>
+            <a href="https://github.com/dr-vishakha-gupta/portfolio/tree/main/Bike_Sharing_Insights_EDA_TimeSeries" target="_blank">View Project</a>
+          </div>
+        </div>
+        <div class="project-card">
+          <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/CustomerSegmentation.jpeg?raw=true" alt="Customer Segmentation Project">
+          <div class="project-info">
+            <h3>Customer Segmentation Using Machine Learning Model</h3>
+            <p>Used clustering techniques to identify customer segments in retail data.</p>
+            <a href="https://github.com/dr-vishakha-gupta/portfolio/tree/main/Customer-Segmentation" target="_blank">View Project</a>
+          </div>
+        </div>
+        <div class="project-card">
+          <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/E-commerce.jpg?raw=true" alt="E-commerce Sales Project">
+          <div class="project-info">
+            <h3>E-commerce Sales Trends & Consumer Behavior Analytics</h3>
+            <p>Analyzed customer purchasing behavior & sales trends.</p>
+            <a href="https://github.com/dr-vishakha-gupta/portfolio/tree/main/E-commerce_Sales_Analysis" target="_blank">View Project</a>
+          </div>
+        </div>
+        <div class="project-card">
+          <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/EV.jpg?raw=true" alt="EV Market Analysis Project">
+          <div class="project-info">
+            <h3>EV Market Analysis</h3>
+            <p>Studied electric vehicle sales & market trends using data analytics.</p>
+            <a href="https://github.com/dr-vishakha-gupta/portfolio/tree/main/EV_Market_Analysis" target="_blank">View Project</a>
+          </div>
+        </div>
+        <div class="project-card">
+          <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/Health_expenditure.jpg?raw=true" alt="Healthcare Cost Analysis Project">
+          <div class="project-info">
+            <h3>Healthcare Cost Analysis Using Econometric Modeling</h3>
+            <p>Built econometric models to analyze healthcare spending patterns.</p>
+            <a href="https://github.com/dr-vishakha-gupta/portfolio/tree/main/Healthcare_Expenditure_Econometric_Modeling" target="_blank">View Project</a>
+          </div>
+        </div>
+        <div class="project-card">
+          <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/hospital.jpg?raw=true" alt="Hospital Utilization Project">
+          <div class="project-info">
+            <h3>Hospital Resource Optimization</h3>
+            <p>Analyzed hospital admission patterns and resource allocation.</p>
+            <a href="https://github.com/dr-vishakha-gupta/portfolio/tree/main/Hospital_Utilization_Analysis" target="_blank">View Project</a>
+          </div>
+        </div>
+        <div class="project-card">
+          <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/refs/heads/main/images/marathon.webp?raw=true" alt="Marathon Insights Project">
+          <div class="project-info">
+            <h3>Marathon Performance Analytics: Trends & Predictions</h3>
+            <p>Explored marathon runner data to uncover performance trends.</p>
+            <a href="https://github.com/dr-vishakha-gupta/portfolio/tree/main/Marathon_Insights_EDA" target="_blank">View Project</a>
+          </div>
+        </div>
+        <div class="project-card">
+          <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/sentiment%20analysis.jpg?raw=true" alt="Sentiment Analysis Project">
+          <div class="project-info">
+            <h3>Sentiment Analysis of Customer Reviews Using NLP</h3>
+            <p>Performed sentiment analysis on text data using NLP techniques.</p>
+            <a href="https://github.com/dr-vishakha-gupta/portfolio/tree/main/NLP_Sentiment_Insights" target="_blank">View Project</a>
+          </div>
+        </div>
+        <div class="project-card">
+          <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/covid_19.jpg?raw=true" alt="Vaccination Impact Project">
+          <div class="project-info">
+            <h3>Vaccination Impact Analysis</h3>
+            <p>Analyzed the impact of COVID-19 vaccination programs.</p>
+            <a href="https://github.com/dr-vishakha-gupta/portfolio/tree/main/Vaccination_Impact_Analysis" target="_blank">View Project</a>
+          </div>
+        </div>
+        <div class="project-card">
+          <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/Netflix.jpg?raw=true" alt="Netflix SQL Analysis Project">
+          <div class="project-info">
+            <h3>Netflix SQL Analysis: Content & Growth Trends</h3>
+            <p>Dived into Netflix's content catalog and growth patterns using SQL.</p>
+            <a href="https://github.com/dr-vishakha-gupta/portfolio/tree/main/Netflix-EDA-SQL" target="_blank">View Project</a>
+          </div>
+        </div>
+      </div>
     </div>
-  </div>
-</section>
-
-<section id="featured-projects">
-  <h2>🚀 Featured Projects</h2>
-  <div class="card-container">
-    <!-- A/B Testing -->
-    <div class="card">
-      <a href="https://github.com/dr-vishakha-gupta/portfolio/tree/main/AB_Testing_Ad_Optimization" target="_blank">
-        <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/AB-Testing.png" alt="A/B Testing Project">
-        <h3>A/B Testing for Ad Performance</h3>
-        <p>Optimized ad placement & analyzed conversion rates using statistical tests.</p>
-      </a>
+  </section>
+  <footer>
+    <div class="container">
+      <p>&copy; 2024 Dr. Vishakha Gupta. All rights reserved.</p>
     </div>
-
-    <!-- Bike Sharing -->
-    <div class="card">
-      <a href="https://github.com/dr-vishakha-gupta/portfolio/tree/main/Bike_Sharing_Insights_EDA_TimeSeries" target="_blank">
-        <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/Bike_Ride.png" alt="Bike Sharing Project">
-        <h3>Time Series Forecasting for Bike-Sharing Demand</h3>
-        <p>Explored bike-sharing trends & built predictive models.</p>
-      </a>
-    </div>
-
-    <!-- Customer Segmentation -->
-    <div class="card">
-      <a href="https://github.com/dr-vishakha-gupta/portfolio/tree/main/Customer-Segmentation" target="_blank">
-        <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/CustomerSegmentation.jpeg" alt="Customer Segmentation Project">
-        <h3>Customer Segmentation Using Machine Learning Model</h3>
-        <p>Used clustering techniques to identify customer segments in retail data.</p>
-      </a>
-    </div>
-
-    <!-- E-commerce Sales -->
-    <div class="card">
-      <a href="https://github.com/dr-vishakha-gupta/portfolio/tree/main/E-commerce_Sales_Analysis" target="_blank">
-        <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/E-commerce.jpg" alt="E-commerce Sales Project">
-        <h3>E-commerce Sales Trends & Consumer Behavior Analytics</h3>
-        <p>Analyzed customer purchasing behavior & sales trends.</p>
-      </a>
-    </div>
-
-    <!-- EV Market Analysis -->
-    <div class="card">
-      <a href="https://github.com/dr-vishakha-gupta/portfolio/tree/main/EV_Market_Analysis" target="_blank">
-        <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/EV.jpg" alt="EV Market Analysis Project">
-        <h3>EV Market Analysis</h3>
-        <p>Studied electric vehicle sales & market trends using data analytics.</p>
-      </a>
-    </div>
-
-    <!-- Healthcare Cost Analysis -->
-    <div class="card">
-      <a href="https://github.com/dr-vishakha-gupta/portfolio/tree/main/Healthcare_Expenditure_Econometric_Modeling" target="_blank">
-        <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/Health_expenditure.jpg" alt="Healthcare Cost Analysis Project">
-        <h3>Healthcare Cost Analysis Using Econometric Modeling</h3>
-        <p>Built econometric models to analyze healthcare spending patterns.</p>
-      </a>
-    </div>
-
-    <!-- Hospital Utilization -->
-    <div class="card">
-      <a href="https://github.com/dr-vishakha-gupta/portfolio/tree/main/Hospital_Utilization_Analysis" target="_blank">
-        <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/hospital.jpg" alt="Hospital Utilization Project">
-        <h3>Hospital Resource Optimization</h3>
-        <p>Analyzed hospital admission patterns and resource allocation.</p>
-      </a>
-    </div>
-
-    <!-- Marathon Insights -->
-    <div class="card">
-      <a href="https://github.com/dr-vishakha-gupta/portfolio/tree/main/Marathon_Insights_EDA" target="_blank">
-        <img src="https://raw.githubusercontent.com/dr-vishakha-gupta/portfolio/main/images/marathon.webp" alt="Marathon Insights Project">
-        <h3>Marathon Performance Analytics: Trends & Predictions</h3>
-        <p>Explored marathon runner data to uncover performance trends.</p>
-      </a>
-    </div>
-
-    <!-- Sentiment Analysis -->
-    <div class="card">
-      <a href="https://github.com/dr-vishakha-gupta/portfolio/tree/main/NLP_Sentiment_Insights" target="_blank">
-        <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/sentiment%20analysis.jpg" alt="Sentiment Analysis Project">
-        <h3>Sentiment Analysis of Customer Reviews Using NLP</h3>
-        <p>Performed sentiment analysis on text data using NLP techniques.</p>
-      </a>
-    </div>
-
-    <!-- Vaccination Impact -->
-    <div class="card">
-      <a href="https://github.com/dr-vishakha-gupta/portfolio/tree/main/Vaccination_Impact_Analysis" target="_blank">
-        <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/covid_19.jpg" alt="Vaccination Impact Project">
-        <h3>Vaccination Impact Analysis</h3>
-        <p>Analyzed the impact of COVID-19 vaccination programs.</p>
-      </a>
-    </div>
-
-    <!-- Netflix SQL Analysis -->
-    <div class="card">
-      <a href="https://github.com/dr-vishakha-gupta/portfolio/tree/main/Netflix-EDA-SQL" target="_blank">
-        <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/images/Netflix.jpg" alt="Netflix SQL Analysis Project">
-        <h3>Netflix SQL Analysis: Content & Growth Trends</h3>
-        <p>Dived into Netflix's content catalog and growth patterns using SQL.</p>
-      </a>
-    </div>
-  </div>
-</section>
+  </footer>
+</body>
+</html>
 
 
