@@ -173,7 +173,7 @@ if menu == "🏠 Home":
         </div>
         """, unsafe_allow_html=True)
 
-# Check Your Risk page content - IMPROVED VERSION
+# Check Your Risk page content 
 elif menu == "📊 Check Your Risk":
     st.markdown('<div class="orange-header" style="padding: 40px;"><h1 style="font-size: 40px;">Check Your Diabetes Risk</h1></div>', unsafe_allow_html=True)
     
