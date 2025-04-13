@@ -185,7 +185,7 @@ elif menu == "📊 Check Your Risk":
 
     # Load the model
     model = cb.CatBoostClassifier()
-    model.load_model("https://github.com/dr-vishakha-gupta/portfolio/blob/main/GlucoGuide/model.cbm")
+    model.load_model("model.cbm")
 
     # First row of inputs
     col1, col2, col3, col4 = st.columns(4, gap="small")
