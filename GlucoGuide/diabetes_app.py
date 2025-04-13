@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import catboost as cb
+import os
 
 # Page config
 st.set_page_config(page_title="GlucoGuide", layout="wide")
@@ -182,10 +183,11 @@ elif menu == "📊 Check Your Risk":
         <p style="font-size: 16px; color: #666;">All information is processed locally and not stored</p>
     </div>
     """, unsafe_allow_html=True)
-
+    
     # Load the model
+    model_path = os.path.join(os.path.dirname(__file__), "model.cbm")
     model = cb.CatBoostClassifier()
-    model.load_model("model.cbm")
+    model.load_model(model_path)
 
     # First row of inputs
     col1, col2, col3, col4 = st.columns(4, gap="small")
