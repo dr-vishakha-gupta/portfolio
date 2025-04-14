@@ -1,7 +1,8 @@
 ## 👩‍💻 About Me   
-I am Dr. Vishakha Gupta, a Senior Analyst with expertise in data science, machine learning, NLP and business intelligence. I specialize in leveraging data-driven insights to drive strategic decision-making and optimize business outcomes. My work focuses on bridging technology, advanced analytics and business strategy to deliver impactful solutions across various industries. 
+Hi, I am Vishakha Gupta — a data storyteller, strategist, and problem-solver.
+I thrive at the intersection of data science, machine learning and business intelligence, turning complex information into clear, actionable strategies. With a passion for using technology to solve real-world problems, I bring a human-centered lens to every dataset.
 
-With a strong foundation in statistical modeling, predictive analytics and data visualization, I transform complex data into meaningful insights that inform business growth, operational efficiency and customer engagement.
+Whether I am building predictive models, extracting insights from unstructured text with NLP, or driving executive decisions through dynamic dashboards, my goal is simple: use data to create impact. From digital health to strategic consulting, my work is about unlocking value where it matters most.
 
 
 ## 🚀 Industry Collaborations & Consulting Projects
