@@ -47,11 +47,10 @@ Each customer was scored and categorized into binary classes (High = 1, Low = 0)
 
 Based on RFM combinations, we mapped each customer into one of **four strategic segments**:
 
-```sas
-#if combined_RFM in ('011') then segment_assignment = '1. Elite Patrons';
-#if combined_RFM in ('010', '111') then segment_assignment = '2. Dedicated Patrons';
-#if combined_RFM in ('000','001') then segment_assignment = '3. Prospective Patrons';
-#if combined_RFM in ('100','101','110') then segment_assignment = '4. Lost Patrons';
+if combined_RFM in ('011') then segment_assignment = '1. Elite Patrons';
+if combined_RFM in ('010', '111') then segment_assignment = '2. Dedicated Patrons';
+if combined_RFM in ('000','001') then segment_assignment = '3. Prospective Patrons';
+if combined_RFM in ('100','101','110') then segment_assignment = '4. Lost Patrons';
 
 ## 📐 Phase 3: Customer Lifetime Value (CLV) Estimation
 
