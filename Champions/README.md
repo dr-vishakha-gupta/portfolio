@@ -18,15 +18,13 @@ The solution: **A scalable segmentation and CLV framework that transforms transa
 
 ## 🎯 Marketing & CRM Objectives
 
-| Objective | Strategic Implication |
-|----------|-----------------------|
-| **Recognize & reward top customers** | Increase retention and maximize value from high CLV segments |
-| **Grow mid-tier engagement** | Nurture frequent buyers with personalized campaigns |
-| **Reactivate churned customers** | Win back lapsed customers through targeted offers |
-| **Enhance brand engagement** | Use segmentation to drive product discovery and category expansion |
-| **Optimize marketing investment** | Allocate resources based on CLV and retention potential |
+![image](https://github.com/user-attachments/assets/6ae27a93-e477-41ee-8fb5-80d7f838bf05)
+
 
 ## 🔍 Analytical Methodology
+
+![image](https://github.com/user-attachments/assets/fc86bb23-69f8-4c13-b9a0-280d3e0a3905)
+
 
 ### Phase 1: Data Preparation & RFM Scoring (SAS Studio)
 
@@ -49,9 +47,8 @@ if combined_RFM in ('100','101','110') then segment_assignment = '4. Lost Patron
 
 ## 📐 Phase 3: Customer Lifetime Value (CLV) Estimation
 
-Using contribution margins and retention rate estimates, we applied the following CLV formula:
-
-CLV = Margin × [ (1 + Discount Rate) / (1 + Discount Rate - Retention Rate) ]
+![image](https://github.com/user-attachments/assets/4588a5a1-705b-4f3e-98b5-10c0483b3bf0)
+![image](https://github.com/user-attachments/assets/57ebbd2f-9f5d-4e37-9a3b-41a68fc92100)
 
 ## 🧮 Phase 4: Segment Profiling & Strategic Interpretation
 
