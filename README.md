@@ -83,7 +83,12 @@ Whether I am building predictive models, extracting insights from unstructured t
   </tr>
 </table>
 
+## 🧠 Predictive Modeling & ML Applications
 
+### [🧪 GlucoGuide: Diabetes Prediction & Lifestyle Recommendation App](https://github.com/dr-vishakha-gupta/glucoguide)  
+An end-to-end Streamlit application that predicts diabetes risk using CatBoost, and provides SHAP-based interpretability and personalized health advice.  
+
+![GlucoGuide App Screenshot](https://github.com/dr-vishakha-gupta/glucoguide/blob/main/images/app_screenshot.png)
 
 ## 📄 Published Papers & Reports
 <table>
