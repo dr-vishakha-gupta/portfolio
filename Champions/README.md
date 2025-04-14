@@ -4,8 +4,6 @@
 
 This project delivers a strategic customer segmentation and **Customer Lifetime Value (CLV)** optimization framework for **Champion**, a leading global apparel brand. Leveraging RFM (Recency, Frequency, Monetary) modeling and predictive analytics within **SAS Studio**, we developed a four-tier segmentation model that informs **personalized marketing strategies**, **retention programs**, and **budget allocation**.
 
----
-
 ## 🏢 Business Challenge
 
 Champion is witnessing post-pandemic sales growth and global market expansion. However, the brand needs a data-driven strategy to:
@@ -17,8 +15,6 @@ Champion is witnessing post-pandemic sales growth and global market expansion. H
 
 The solution: **A scalable segmentation and CLV framework that transforms transactional data into actionable marketing insights.**
 
----
-
 ## 🎯 Marketing & CRM Objectives
 
 | Objective | Strategic Implication |
@@ -28,8 +24,6 @@ The solution: **A scalable segmentation and CLV framework that transforms transa
 | **Reactivate churned customers** | Win back lapsed customers through targeted offers |
 | **Enhance brand engagement** | Use segmentation to drive product discovery and category expansion |
 | **Optimize marketing investment** | Allocate resources based on CLV and retention potential |
-
----
 
 ## 🔍 Analytical Methodology
 
@@ -55,11 +49,8 @@ if combined_RFM in ('100','101','110') then segment_assignment = '4. Lost Patron
 ## 📐 Phase 3: Customer Lifetime Value (CLV) Estimation
 
 Using contribution margins and retention rate estimates, we applied the following CLV formula:
+
 CLV = Margin × [ (1 + Discount Rate) / (1 + Discount Rate - Retention Rate) ]
-
-> The discount rate was standardized across segments to ensure fair comparison.
-
----
 
 ## 🧮 Phase 4: Segment Profiling & Strategic Interpretation
 
@@ -71,8 +62,6 @@ Each segment was profiled based on:
 - Retention rates
 - Customer Lifetime Value (CLV) and projected purchasing lifespan
 
----
-
 ## 🧩 Key Segments & Strategic Insights
 
 | Segment             | % of Customers | Avg CLV | Description                                                                  |
@@ -82,7 +71,6 @@ Each segment was profiled based on:
 | **Prospective Patrons**| 37%         | $68     | New or lightly engaged customers. Opportunity for conversion.                |
 | **Lost Patrons**     | 40%            | $45     | Lapsed or disengaged. Candidates for win-back campaigns.                     |
 
----
 
 ## 🧬 Segment Behavioral Profiles
 
@@ -95,7 +83,6 @@ Each segment was profiled based on:
 | **Promo Usage (%)**        | 93%   | 90%       | 32%         | 34%  |
 | **Retention Rate (%)**     | 82%   | 66%       | 59%         | 40%  |
 
----
 
 ## 💡 Strategic Recommendations
 
@@ -106,16 +93,12 @@ Each segment was profiled based on:
 - Offer **personalized shopping experiences**
 - Involve them in **beta launches** and **feedback loops**
 
----
-
 ### **Segment 2: Dedicated Patrons**
 **Goal:** Upsell and increase frequency  
 **Tactics:**
 - Implement **AI-driven cross-sell** (e.g., *"Complete the Look"*)
 - Offer **bundled promotions** and **loyalty tiers**
 - Use **post-purchase dynamic emails** for personalized offers
-
----
 
 ### **Segment 3: Prospective Patrons**
 **Goal:** Convert and nurture  
@@ -124,16 +107,12 @@ Each segment was profiled based on:
 - Deliver **educational content** via email and social media
 - Retarget using **browsing and interaction behavior**
 
----
-
 ### **Segment 4: Lost Patrons**
 **Goal:** Reactivate or learn from churn  
 **Tactics:**
 - Launch **“We Miss You”** campaigns with time-limited offers
 - Include **personalized product suggestions**
 - Run **exit surveys** for churn insight and future improvement
-
----
 
 ## 💰 Budget Allocation Strategy
 
@@ -144,7 +123,6 @@ Each segment was profiled based on:
 | **Prospective Patrons**| $68  | 37%            | 20%                    | Acquisition-focused spend to grow their lifetime value                 |
 | **Lost Patrons**     | $45     | 40%            | 35%                    | Reactivation efforts and churn analysis for CX improvements            |
 
----
 
 ## 📊 Tools & Technologies
 
