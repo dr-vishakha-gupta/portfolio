@@ -1,4 +1,5 @@
 # 🧠 Champion | Customer Segmentation & CLV Optimization Strategy
+![image](https://github.com/user-attachments/assets/5dc8e8ad-0d9e-442d-8cfb-c1ee1788419b)
 
 ## Executive Summary
 
