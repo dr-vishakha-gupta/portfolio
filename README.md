@@ -105,7 +105,7 @@ Whether I am building predictive models, extracting insights from unstructured t
         font-size: 18px; 
         font-weight: bold;
       ">
-        <a href="https://github.com/dr-vishakha-gupta/glucoguide" target="_blank" style="text-decoration: none; color: #2c3e50;">
+        <a href="https://github.com/dr-vishakha-gupta/portfolio/tree/main/GlucoGuide" target="_blank" style="text-decoration: none; color: #2c3e50;">
           GlucoGuide: Diabetes Prediction & Lifestyle App
         </a>
       </h3>
