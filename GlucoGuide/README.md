@@ -75,144 +75,148 @@ We evaluated several models and finalized **CatBoost Classifier** based on perfo
 
 Used **GridSearchCV** to optimize parameters for all ensemble models.
 
-#### 📌 Final CatBoost Parameters:
-```python
-{
-  'iterations': 500,
-  'learning_rate': 0.05,
-  'depth': 6,
-  'l2_leaf_reg': 3,
-  'random_strength': 1,
-  'bagging_temperature': 1
-}
-🧪 Cross-Validation & Evaluation Metrics
-5-Fold Stratified Cross-Validation was used throughout
+**Final test results for CatBoost:**
 
-Final test results for CatBoost:
+| Metric     | Score |
+|------------|-------|
+| Accuracy   | 89%   |
+| Precision  | 0.87  |
+| Recall     | 0.90  |
+| F1-Score   | 0.88  |
+| ROC-AUC    | 0.92  |
 
-Metric	Score
-Accuracy	89%
-Precision	0.87
-Recall	0.90
-F1-Score	0.88
-ROC-AUC	0.92
-📈 Feature Importance (from CatBoost)
-Feature	Importance (%)
-Glucose	41.3%
-BMI	18.7%
-Age	14.2%
-Diabetes Pedigree Function	10.8%
-🎯 Model Interpretation & Explainability
+---
+
+## 📈 Feature Importance (from CatBoost)
+
+| Feature                    | Importance (%) |
+|----------------------------|----------------|
+| Glucose                    | 41.3%          |
+| BMI                        | 18.7%          |
+| Age                        | 14.2%          |
+| Diabetes Pedigree Function| 10.8%          |
+
+---
+
+## 🎯 Model Interpretation & Explainability
+
 To ensure transparency and trust, we applied several interpretability techniques:
 
-SHAP (SHapley Additive Explanations): Visualized contributions of individual features for single predictions
+- **SHAP (SHapley Additive Explanations)**: Visualized contributions of individual features for single predictions  
+- **Partial Dependence Plots**: Analyzed how each feature influenced predictions  
+- **Feature Importance Charts**: Communicated top predictors globally  
 
-Partial Dependence Plots: Analyzed how each feature influenced predictions
+---
 
-Feature Importance Charts: Communicated top predictors globally
+## 🌐 Web Application Development
 
-🌐 Web Application Development
-🛠️ Design Philosophy
+### 🛠️ Design Philosophy
+
 The Streamlit web app was built with:
 
-Accessibility for non-technical users
+- Accessibility for non-technical users  
+- Clarity of risk score and model logic  
+- Actionability through health guidance based on inputs  
 
-Clarity of risk score and model logic
+### 🧩 Key Components
 
-Actionability through health guidance based on inputs
+#### ✅ User Interface
 
-🧩 Key Components
-User Interface
-Sidebar inputs for all features using sliders and number fields
+- Sidebar inputs for all features using sliders and number fields  
+- Tooltips explaining medical context of each feature  
+- Submit Button to trigger model prediction  
 
-Tooltips explaining medical context of each feature
+#### ⚙️ Backend Logic
 
-Submit Button to trigger model prediction
+- Input validation + transformation matching model pipeline  
+- CatBoost model loaded from serialized `.cbm` file  
+- Probabilistic prediction + binary classification  
+- Risk level displayed with context-aware recommendations  
 
-Backend Logic
-Input validation + transformation matching model pipeline
+#### 📤 Output Features
 
-CatBoost model loaded from serialized .cbm file
+- Risk score + diabetes prediction  
+- SHAP summary for major contributing features (if enabled)  
+- Tailored health suggestions (diet, lifestyle, checkups)  
 
-Probabilistic prediction + binary classification
+---
 
-Risk level displayed with context-aware recommendations
+## 📋 Recommendation System Logic
 
-Output Features
-Risk score + diabetes prediction
-
-SHAP summary for major contributing features (if enabled)
-
-Tailored health suggestions (diet, lifestyle, checkups)
-
-📋 Recommendation System Logic
 Used a rule-based system depending on:
 
-Prediction class (0 or 1)
+- Prediction class (0 or 1)  
+- Thresholds for **BMI**, **Glucose**, **Age**  
+- Established medical guidelines  
 
-Thresholds for BMI, Glucose, Age
+### 💡 Examples:
 
-Medical guidelines
+- **High BMI** → Guidance on exercise and calorie balance  
+- **High Glucose** → Low-GI diet tips and carb tracking  
+- **Seniors** → Regular A1C testing and annual eye exams  
 
-Examples:
-High BMI → guidance on exercise and calorie balance
+---
 
-High Glucose → low-GI diet tips and carb tracking
+## 🚀 Deployment & Monitoring
 
-Seniors → regular A1C testing and annual eye exams
+### 🛰️ Deployment Steps
 
-🚀 Deployment & Monitoring
-🛰️ Deployment Steps
-Pushed code and model to GitHub repo
+- Pushed code and model to GitHub repo  
+- Hosted app using Streamlit Cloud  
+- Managed dependencies with `requirements.txt`  
+- Ensured reproducibility with fixed seeds and saved model state  
 
-Hosted app using Streamlit Cloud
+### 🛡️ Monitoring (Basic)
 
-Managed dependencies with requirements.txt
+- Logged prediction flow and errors in console  
+- App auto-refreshes with Streamlit for quick iteration  
 
-Ensured reproducibility with fixed seeds and saved model state
+---
 
-🛡️ Monitoring (Basic)
-Logged prediction flow and errors in console
+## 🔮 Future Enhancements
 
-App auto-refreshes with Streamlit for quick iteration
+### 🧠 Model & Data
 
-🔮 Future Enhancements
-Model & Data
-Integrate larger, more diverse datasets
+- Integrate larger, more diverse datasets  
+- Time-series tracking for risk progression  
+- Add prediction for **Type 1** / **gestational diabetes**  
 
-Time-series tracking for risk progression
+### 📱 App Features
 
-Add prediction for Type 1 / gestational diabetes
+- Multi-language UI  
+- Mobile-friendly layout  
+- Integration with **Apple Health** / **Google Fit**  
 
-App Features
-Multi-language UI
+### 🧪 Clinical Validation
 
-Mobile-friendly layout
+- Collaborate with medical experts for real-world testing  
+- Compare results with **ADA** and **WHO** risk tools  
 
-Integration with Apple Health / Google Fit
+---
 
-Clinical Validation
-Collaborate with medical experts for real-world testing
+## 🤝 Ethical Considerations
 
-Compare results with ADA and WHO risk tools
+- **Data Privacy**: No data is stored; all processing is client-side  
+- **Disclaimer**: App supplements—not replaces—medical consultation  
+- **Bias Awareness**: Acknowledge limitations due to dataset demographics (Pima Indian women)  
+- **Accessibility**: Designed for users across literacy and tech skill levels  
 
-🤝 Ethical Considerations
-Data Privacy: No data is stored; all processing is client-side
+---
 
-Disclaimer: App supplements—not replaces—medical consultation
+## 📚 Technical Stack & Tools
 
-Bias Awareness: Acknowledge limitations due to dataset demographics (Pima Indian women)
+| Area                | Tools Used                                 |
+|---------------------|---------------------------------------------|
+| Core Programming    | Python 3.8, Jupyter Notebook                |
+| Modeling            | CatBoost 1.1.1, Scikit-learn 1.0.2          |
+| Data Processing     | Pandas 1.4.2, NumPy 1.22.3                   |
+| Visualization       | Matplotlib 3.5.1, Seaborn 0.11.2, Plotly 5.6.0 |
+| Model Explainability| SHAP 0.40.0                                 |
+| UI / Deployment     | Streamlit 1.15.0, Docker 20.10.14, GitHub   |
+| Environment Mgmt    | Conda, requirements.txt                     |
 
-Accessibility: Designed for users across literacy and tech skill levels
+---
 
-📚 Technical Stack & Tools
-Area	Tools Used
-Core Programming	Python 3.8, Jupyter Notebook
-Modeling	CatBoost 1.1.1, Scikit-learn 1.0.2
-Data Processing	Pandas 1.4.2, NumPy 1.22.3
-Visualization	Matplotlib 3.5.1, Seaborn 0.11.2, Plotly 5.6.0
-Model Explainability	SHAP 0.40.0
-UI / Deployment	Streamlit 1.15.0, Docker 20.10.14, GitHub
-Environment Mgmt	Conda, requirements.txt
-🔍 Conclusion
-GlucoGuide showcases how data science and machine learning can contribute meaningfully to public health. By delivering a robust, explainable model and pairing it with a user-centric interface, the project provides both predictive insights and actionable advice—empowering users to take proactive steps toward managing their health.
+## 🔍 Conclusion
+
+**GlucoGuide** showcases how data science and machine learning can contribute meaningfully to public health. By delivering a robust, explainable model and pairing it with a user-centric interface, the project provides both predictive insights and actionable advice—empowering users to take proactive steps toward managing their health.
