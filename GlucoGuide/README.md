@@ -1,7 +1,5 @@
 # 🩺 GlucoGuide: Diabetes Prediction & Lifestyle Recommendation App
 
-## 📌 Project Introduction
-
 **GlucoGuide** is an end-to-end machine learning web application designed to predict diabetes risk based on clinical parameters and deliver personalized lifestyle recommendations. This project demonstrates the complete data science lifecycle—from exploration and preprocessing through model development and deployment—while simultaneously addressing an important public health concern.
 
 ### 🎯 Key Objectives
@@ -12,8 +10,6 @@
 
 ### 🩺 Problem Statement
 Diabetes affects millions worldwide, with many cases going undiagnosed until complications arise. Early detection can significantly improve outcomes through lifestyle modifications and timely medical intervention. GlucoGuide aims to bridge this gap by providing an accessible screening tool and personalized guidance based on scientific evidence.
-
----
 
 ## 📊 Dataset Analysis & Preparation
 
@@ -30,8 +26,6 @@ The initial exploration revealed several insights that guided subsequent process
 - **Class Imbalance**: Target class distribution was ~65% non-diabetic vs. 35% diabetic.
 - **Pair Plot Analysis**: Showed clear class separability across **Glucose**, **BMI**, and **Age**.
 
----
-
 ### 🧹 Data Preprocessing Pipeline
 
 #### 🔻 Missing Value Treatment
@@ -47,8 +41,6 @@ While we explored advanced feature engineering, we proceeded with original featu
 #### 🔀 Train-Test Split
 - Used **Stratified 80-20 split** to ensure target class balance in both training and test sets
 - Set **random_state=42** for reproducibility
-
----
 
 ## 🤖 Model Development & Evaluation
 
@@ -69,8 +61,6 @@ We evaluated several models and finalized **CatBoost Classifier** based on perfo
 - Less sensitive to hyperparameter tuning
 - Fast training with robust accuracy on tabular datasets
 
----
-
 ### 🎯 Hyperparameter Tuning
 
 Used **GridSearchCV** to optimize parameters for all ensemble models.
@@ -85,7 +75,6 @@ Used **GridSearchCV** to optimize parameters for all ensemble models.
 | F1-Score   | 0.88  |
 | ROC-AUC    | 0.92  |
 
----
 
 ## 📈 Feature Importance (from CatBoost)
 
@@ -96,7 +85,6 @@ Used **GridSearchCV** to optimize parameters for all ensemble models.
 | Age                        | 14.2%          |
 | Diabetes Pedigree Function| 10.8%          |
 
----
 
 ## 🎯 Model Interpretation & Explainability
 
@@ -106,7 +94,6 @@ To ensure transparency and trust, we applied several interpretability techniques
 - **Partial Dependence Plots**: Analyzed how each feature influenced predictions  
 - **Feature Importance Charts**: Communicated top predictors globally  
 
----
 
 ## 🌐 Web Application Development
 
@@ -139,8 +126,6 @@ The Streamlit web app was built with:
 - SHAP summary for major contributing features (if enabled)  
 - Tailored health suggestions (diet, lifestyle, checkups)  
 
----
-
 ## 📋 Recommendation System Logic
 
 Used a rule-based system depending on:
@@ -155,7 +140,6 @@ Used a rule-based system depending on:
 - **High Glucose** → Low-GI diet tips and carb tracking  
 - **Seniors** → Regular A1C testing and annual eye exams  
 
----
 
 ## 🚀 Deployment & Monitoring
 
@@ -171,7 +155,7 @@ Used a rule-based system depending on:
 - Logged prediction flow and errors in console  
 - App auto-refreshes with Streamlit for quick iteration  
 
----
+
 
 ## 🔮 Future Enhancements
 
@@ -192,16 +176,12 @@ Used a rule-based system depending on:
 - Collaborate with medical experts for real-world testing  
 - Compare results with **ADA** and **WHO** risk tools  
 
----
-
 ## 🤝 Ethical Considerations
 
 - **Data Privacy**: No data is stored; all processing is client-side  
 - **Disclaimer**: App supplements—not replaces—medical consultation  
 - **Bias Awareness**: Acknowledge limitations due to dataset demographics (Pima Indian women)  
 - **Accessibility**: Designed for users across literacy and tech skill levels  
-
----
 
 ## 📚 Technical Stack & Tools
 
@@ -215,7 +195,6 @@ Used a rule-based system depending on:
 | UI / Deployment     | Streamlit 1.15.0, Docker 20.10.14, GitHub   |
 | Environment Mgmt    | Conda, requirements.txt                     |
 
----
 
 ## 🔍 Conclusion
 
