@@ -1,5 +1,7 @@
 # GlucoGuide: Diabetes Prediction & Lifestyle Recommendation App
 🚀 **Try it live:** 👉 [GlucoGuide Web App](https://welcometoglucoguide.streamlit.app/)
+![GlucoGuide App](https://path-to-your-image.com/screenshot.png)
+
 
 **GlucoGuide** is an end-to-end machine learning web application designed to predict diabetes risk based on clinical parameters and deliver personalized lifestyle recommendations. This project demonstrates the complete data science lifecycle—from exploration and preprocessing through model development and deployment—while simultaneously addressing an important public health concern.
 
