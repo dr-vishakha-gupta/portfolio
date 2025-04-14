@@ -1,5 +1,6 @@
 # GlucoGuide: Diabetes Prediction & Lifestyle Recommendation App
 🚀 **Try it live:** 👉 [GlucoGuide Web App](https://welcometoglucoguide.streamlit.app/)
+
 ![GlucoGuide App](https://github.com/dr-vishakha-gupta/portfolio/blob/main/GlucoGuide/GlucoGuideApp.png)
 
 
