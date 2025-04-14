@@ -89,7 +89,7 @@ Whether I am building predictive models, extracting insights from unstructured t
   <tr>
     <td width="33%" style="padding: 20px; border: 2px solid #2c3e50; border-radius: 15px; text-align: center; vertical-align: top;">
       <a href="https://github.com/dr-vishakha-gupta/portfolio/tree/main/GlucoGuide" target="_blank">
-        <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/GlucoGuide/GlucoGuideApp.png" alt="GlucoGuide App" style="
+        <img src="https://github.com/dr-vishakha-gupta/portfolio/blob/main/GlucoGuide/Logo.png" alt="GlucoGuide App" style="
           width: 80%; 
           max-height: 150px; 
           object-fit: contain; 
