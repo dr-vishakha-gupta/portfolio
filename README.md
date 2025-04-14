@@ -1,5 +1,5 @@
 ## 👩‍💻 About Me   
-Hi, I am Vishakha Gupta — a data storyteller, strategist, and problem-solver.
+Hi, I am Vishakha Gupta - a data storyteller, strategist, and problem-solver.
 I thrive at the intersection of data science, machine learning and business intelligence, turning complex information into clear, actionable strategies. With a passion for using technology to solve real-world problems, I bring a human-centered lens to every dataset.
 
 Whether I am building predictive models, extracting insights from unstructured text with NLP, or driving executive decisions through dynamic dashboards, my goal is simple: use data to create impact. From digital health to strategic consulting, my work is about unlocking value where it matters most.
