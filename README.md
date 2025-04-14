@@ -110,7 +110,7 @@ Whether I am building predictive models, extracting insights from unstructured t
         </a>
       </h3>
       <p style="color: #34495e; font-size: 14px;">
-        Built an explainable CatBoost model with SHAP-based insights. Delivered as a Streamlit app offering personalized risk scores and actionable health guidance.
+        Built an explainable CatBoost model with SHAP insights, deployed via Streamlit for real-time diabetes risk scoring and lifestyle recommendations.
       </p>
     </td>
     
