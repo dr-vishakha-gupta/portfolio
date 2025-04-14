@@ -83,12 +83,40 @@ Whether I am building predictive models, extracting insights from unstructured t
   </tr>
 </table>
 
-## 🧠 Predictive Modeling & ML Applications
+## 🤖 Predictive Modeling Projects
 
-### [🧪 GlucoGuide: Diabetes Prediction & Lifestyle Recommendation App](https://github.com/dr-vishakha-gupta/portfolio/tree/main/GlucoGuide)  
-An end-to-end Streamlit application that predicts diabetes risk using CatBoost, and provides SHAP-based interpretability and personalized health advice.  
+<table>
+  <tr>
+    <td width="33%" style="padding: 20px; border: 2px solid #2c3e50; border-radius: 15px; text-align: center; vertical-align: top;">
+      <a href="https://github.com/dr-vishakha-gupta/portfolio/tree/main/GlucoGuide" target="_blank">
+        <img src="https://github.com/dr-vishakha-gupta/glucoguide/blob/main/images/app_screenshot.png" alt="GlucoGuide App" style="
+          width: 80%; 
+          max-height: 150px; 
+          object-fit: contain; 
+          display: block;
+          margin: 0 auto 15px auto;
+          border: 1px solid #ccc;
+          border-radius: 10px;
+        ">
+      </a>
+      <h3 style="
+        color: #2c3e50; 
+        margin-top: 10px; 
+        font-size: 18px; 
+        font-weight: bold;
+      ">
+        <a href="https://github.com/dr-vishakha-gupta/glucoguide" target="_blank" style="text-decoration: none; color: #2c3e50;">
+          GlucoGuide: Diabetes Prediction & Lifestyle App
+        </a>
+      </h3>
+      <p style="color: #34495e; font-size: 14px;">
+        Built an explainable CatBoost model with SHAP-based insights. Delivered as a Streamlit app offering personalized risk scores and actionable health guidance.
+      </p>
+    </td>
+    
+  </tr>
+</table>
 
-![GlucoGuide App Screenshot](https://github.com/dr-vishakha-gupta/portfolio/tree/main/GlucoGuide/GlucoGuideApp.png)
 
 ## 📄 Published Papers & Reports
 <table>
