@@ -3,7 +3,6 @@ I am Vishakha Gupta, a data-driven strategist with a strong foundation in analyt
 
 With experience in digital health, SaaS, and strategic consulting, I take a human-centered approach to solving high-impact problems. My focus is on uncovering opportunities, aligning cross-functional teams and delivering solutions that connect user needs with business goals across the product lifecycle.
 
-
 ## 🚀 Industry Collaborations & Consulting Projects
 <table>
   <tr>
